@@ -1,0 +1,4764 @@
+{
+  "schema": {
+    "fields": [
+      {
+        "name": "index",
+        "type": "string"
+      },
+      {
+        "name": "name",
+        "type": "string"
+      },
+      {
+        "name": "population",
+        "type": "number"
+      },
+      {
+        "name": "sqkm",
+        "type": "number"
+      },
+      {
+        "name": "sourceid",
+        "type": "string"
+      },
+      {
+        "name": "ndocuments",
+        "type": "integer"
+      },
+      {
+        "name": "population_density",
+        "type": "number"
+      },
+      {
+        "name": "area_density",
+        "type": "number"
+      }
+    ],
+    "primaryKey": [
+      "index"
+    ],
+    "pandas_version": "0.20.0",
+    "metadata": {
+      "density_type": "ndocuments",
+      "label": "Publications",
+      "attributes": [
+        "ndocuments",
+        "population_density",
+        "area_density"
+      ],
+      "level": "region"
+    }
+  },
+  "data": [
+    {
+      "index": "0",
+      "name": "Aberdeen",
+      "population": 221770.0,
+      "sqkm": 762.542302569,
+      "sourceid": "GBR-2012",
+      "ndocuments": 1,
+      "population_density": 4.5092e-06,
+      "area_density": 0.0013114027
+    },
+    {
+      "index": "1",
+      "name": "Abu Dhabi",
+      "population": 1038225.0,
+      "sqkm": 70667.138087,
+      "sourceid": "ARE-349",
+      "ndocuments": 4,
+      "population_density": 3.8527e-06,
+      "area_density": 5.66034e-05
+    },
+    {
+      "index": "2",
+      "name": "Adamawa",
+      "population": 730590.0,
+      "sqkm": 34525.2496647,
+      "sourceid": "NGA-2881",
+      "ndocuments": 1,
+      "population_density": 1.3688e-06,
+      "area_density": 2.89643e-05
+    },
+    {
+      "index": "3",
+      "name": "Aichi",
+      "population": 5804732.0,
+      "sqkm": 7350.05357711,
+      "sourceid": "JPN-1840",
+      "ndocuments": 1,
+      "population_density": 1.723e-07,
+      "area_density": 0.0001360534
+    },
+    {
+      "index": "4",
+      "name": "Akershus",
+      "population": 139053.0,
+      "sqkm": 18342.9102242,
+      "sourceid": "NOR-917",
+      "ndocuments": 1,
+      "population_density": 7.1915e-06,
+      "area_density": 5.4517e-05
+    },
+    {
+      "index": "5",
+      "name": "Akita",
+      "population": 641555.0,
+      "sqkm": 19776.2279788,
+      "sourceid": "JPN-1862",
+      "ndocuments": 1,
+      "population_density": 1.5587e-06,
+      "area_density": 5.05658e-05
+    },
+    {
+      "index": "6",
+      "name": "Al Jizah",
+      "population": 2749495.0,
+      "sqkm": 48881.8765168,
+      "sourceid": "EGY-1544",
+      "ndocuments": 2,
+      "population_density": 7.274e-07,
+      "area_density": 4.0915e-05
+    },
+    {
+      "index": "7",
+      "name": "Al Madinah",
+      "population": 2507028.0,
+      "sqkm": 175222.520999,
+      "sourceid": "SAU-845",
+      "ndocuments": 1,
+      "population_density": 3.989e-07,
+      "area_density": 5.707e-06
+    },
+    {
+      "index": "8",
+      "name": "Al Qahirah",
+      "population": 8164614.0,
+      "sqkm": 4171.95145921,
+      "sourceid": "EGY-1533",
+      "ndocuments": 2,
+      "population_density": 2.45e-07,
+      "area_density": 0.000479392
+    },
+    {
+      "index": "9",
+      "name": "Alabama",
+      "population": 3458442.0,
+      "sqkm": 189102.147582,
+      "sourceid": "USA-3541",
+      "ndocuments": 8,
+      "population_density": 2.3132e-06,
+      "area_density": 4.23052e-05
+    },
+    {
+      "index": "10",
+      "name": "Alberta",
+      "population": 2687905.0,
+      "sqkm": 2041701.68311,
+      "sourceid": "CAN-632",
+      "ndocuments": 18,
+      "population_density": 6.6967e-06,
+      "area_density": 8.8162e-06
+    },
+    {
+      "index": "11",
+      "name": "Aleppo",
+      "population": 2153951.0,
+      "sqkm": 29014.9631522,
+      "sourceid": "SYR-137",
+      "ndocuments": 1,
+      "population_density": 4.643e-07,
+      "area_density": 3.4465e-05
+    },
+    {
+      "index": "12",
+      "name": "Alpes-Maritimes",
+      "population": 1015430.0,
+      "sqkm": 7996.95504907,
+      "sourceid": "FRA-5266",
+      "ndocuments": 1,
+      "population_density": 9.848e-07,
+      "area_density": 0.0001250476
+    },
+    {
+      "index": "13",
+      "name": "Andhra Pradesh",
+      "population": 21843981.0,
+      "sqkm": 300304.298507,
+      "sourceid": "IND-2441",
+      "ndocuments": 1,
+      "population_density": 4.58e-08,
+      "area_density": 3.33e-06
+    },
+    {
+      "index": "14",
+      "name": "Anhui",
+      "population": 9280602.0,
+      "sqkm": 193942.309926,
+      "sourceid": "CHN-1179",
+      "ndocuments": 10,
+      "population_density": 1.0775e-06,
+      "area_density": 5.15617e-05
+    },
+    {
+      "index": "15",
+      "name": "Ankara",
+      "population": 4725632.0,
+      "sqkm": 43377.6228135,
+      "sourceid": "TUR-3008",
+      "ndocuments": 5,
+      "population_density": 1.0581e-06,
+      "area_density": 0.0001152668
+    },
+    {
+      "index": "16",
+      "name": "Antwerp",
+      "population": 1767910.0,
+      "sqkm": 7031.36284659,
+      "sourceid": "BEL-3480",
+      "ndocuments": 2,
+      "population_density": 1.1313e-06,
+      "area_density": 0.0002844399
+    },
+    {
+      "index": "17",
+      "name": "Aomori",
+      "population": 931750.0,
+      "sqkm": 16795.7368113,
+      "sourceid": "JPN-1863",
+      "ndocuments": 2,
+      "population_density": 2.1465e-06,
+      "area_density": 0.0001190778
+    },
+    {
+      "index": "18",
+      "name": "Ar Rayy\u0101n",
+      "population": 293500.0,
+      "sqkm": 7793.05197134,
+      "sourceid": "QAT-1100",
+      "ndocuments": 1,
+      "population_density": 3.4072e-06,
+      "area_density": 0.0001283194
+    },
+    {
+      "index": "19",
+      "name": "Ar Riyad",
+      "population": 4879995.0,
+      "sqkm": 445644.209176,
+      "sourceid": "SAU-1097",
+      "ndocuments": 1,
+      "population_density": 2.049e-07,
+      "area_density": 2.2439e-06
+    },
+    {
+      "index": "20",
+      "name": "Arezzo",
+      "population": 300562.0,
+      "sqkm": 6131.86164532,
+      "sourceid": "ITA-5387",
+      "ndocuments": 1,
+      "population_density": 3.3271e-06,
+      "area_density": 0.0001630826
+    },
+    {
+      "index": "21",
+      "name": "Arges",
+      "population": 827445.0,
+      "sqkm": 13330.9313276,
+      "sourceid": "ROU-302",
+      "ndocuments": 1,
+      "population_density": 1.2085e-06,
+      "area_density": 7.50135e-05
+    },
+    {
+      "index": "22",
+      "name": "Arizona",
+      "population": 7218155.0,
+      "sqkm": 431837.414327,
+      "sourceid": "USA-3520",
+      "ndocuments": 42,
+      "population_density": 5.8187e-06,
+      "area_density": 9.72588e-05
+    },
+    {
+      "index": "23",
+      "name": "Arkansas",
+      "population": 2080813.0,
+      "sqkm": 204130.596277,
+      "sourceid": "USA-3528",
+      "ndocuments": 5,
+      "population_density": 2.4029e-06,
+      "area_density": 2.44941e-05
+    },
+    {
+      "index": "24",
+      "name": "Assam",
+      "population": 2888336.0,
+      "sqkm": 98945.6062236,
+      "sourceid": "IND-2477",
+      "ndocuments": 1,
+      "population_density": 3.462e-07,
+      "area_density": 1.01066e-05
+    },
+    {
+      "index": "25",
+      "name": "Attiki",
+      "population": 3786587.0,
+      "sqkm": 6074.96845436,
+      "sourceid": "GRC-2884",
+      "ndocuments": 3,
+      "population_density": 7.923e-07,
+      "area_density": 0.0004938297
+    },
+    {
+      "index": "26",
+      "name": "Aube",
+      "population": 297618.0,
+      "sqkm": 13859.7718432,
+      "sourceid": "FRA-5270",
+      "ndocuments": 2,
+      "population_density": 6.72e-06,
+      "area_density": 0.0001443025
+    },
+    {
+      "index": "27",
+      "name": "Auckland",
+      "population": 1140692.0,
+      "sqkm": 7298.60603207,
+      "sourceid": "NZL-3398",
+      "ndocuments": 5,
+      "population_density": 4.3833e-06,
+      "area_density": 0.0006850623
+    },
+    {
+      "index": "28",
+      "name": "Australian Capital Territory",
+      "population": 409692.0,
+      "sqkm": 3536.34143851,
+      "sourceid": "AUS-2653",
+      "ndocuments": 11,
+      "population_density": 2.68494e-05,
+      "area_density": 0.0031105594
+    },
+    {
+      "index": "29",
+      "name": "Aveiro",
+      "population": 487505.0,
+      "sqkm": 4803.84966398,
+      "sourceid": "PRT-739",
+      "ndocuments": 4,
+      "population_density": 8.205e-06,
+      "area_density": 0.0008326655
+    },
+    {
+      "index": "30",
+      "name": "Avellino",
+      "population": 390470.0,
+      "sqkm": 4800.34019277,
+      "sourceid": "ITA-5399",
+      "ndocuments": 2,
+      "population_density": 5.122e-06,
+      "area_density": 0.0004166371
+    },
+    {
+      "index": "31",
+      "name": "Baden-W\u00fcrttemberg",
+      "population": 10071132.0,
+      "sqkm": 82119.1340291,
+      "sourceid": "DEU-1573",
+      "ndocuments": 18,
+      "population_density": 1.7873e-06,
+      "area_density": 0.0002191937
+    },
+    {
+      "index": "32",
+      "name": "Bahia",
+      "population": 8118220.0,
+      "sqkm": 588023.603969,
+      "sourceid": "BRA-624",
+      "ndocuments": 1,
+      "population_density": 1.232e-07,
+      "area_density": 1.7006e-06
+    },
+    {
+      "index": "33",
+      "name": "Baja California",
+      "population": 3010578.0,
+      "sqkm": 98196.9248302,
+      "sourceid": "MEX-2706",
+      "ndocuments": 1,
+      "population_density": 3.322e-07,
+      "area_density": 1.01836e-05
+    },
+    {
+      "index": "34",
+      "name": "Baleares",
+      "population": 1121406.0,
+      "sqkm": 8588.5060354,
+      "sourceid": "ESP-5808",
+      "ndocuments": 2,
+      "population_density": 1.7835e-06,
+      "area_density": 0.0002328694
+    },
+    {
+      "index": "35",
+      "name": "Barcelona",
+      "population": 5619093.0,
+      "sqkm": 13879.1976566,
+      "sourceid": "ESP-5809",
+      "ndocuments": 22,
+      "population_density": 3.9152e-06,
+      "area_density": 0.001585106
+    },
+    {
+      "index": "36",
+      "name": "Bari",
+      "population": 1194939.0,
+      "sqkm": 6785.73149397,
+      "sourceid": "ITA-5403",
+      "ndocuments": 2,
+      "population_density": 1.6737e-06,
+      "area_density": 0.0002947361
+    },
+    {
+      "index": "37",
+      "name": "Barnet",
+      "population": 61471.0,
+      "sqkm": 242.671672284,
+      "sourceid": "GBR-5705",
+      "ndocuments": 4,
+      "population_density": 6.50713e-05,
+      "area_density": 0.0164831765
+    },
+    {
+      "index": "38",
+      "name": "Bas-Rhin",
+      "population": 1038900.0,
+      "sqkm": 10591.4561785,
+      "sourceid": "FRA-5273",
+      "ndocuments": 5,
+      "population_density": 4.8128e-06,
+      "area_density": 0.0004720786
+    },
+    {
+      "index": "39",
+      "name": "Basel-Stadt",
+      "population": 197614.0,
+      "sqkm": 87.4010456052,
+      "sourceid": "CHE-3425",
+      "ndocuments": 1,
+      "population_density": 5.0604e-06,
+      "area_density": 0.0114415107
+    },
+    {
+      "index": "40",
+      "name": "Bath and North East Somerset",
+      "population": 141614.0,
+      "sqkm": 789.246593558,
+      "sourceid": "GBR-2043",
+      "ndocuments": 8,
+      "population_density": 5.64916e-05,
+      "area_density": 0.010136249
+    },
+    {
+      "index": "41",
+      "name": "Bayern",
+      "population": 11926076.0,
+      "sqkm": 161769.018898,
+      "sourceid": "DEU-1591",
+      "ndocuments": 19,
+      "population_density": 1.5931e-06,
+      "area_density": 0.0001174514
+    },
+    {
+      "index": "42",
+      "name": "Beijing",
+      "population": 12567189.0,
+      "sqkm": 27761.1427041,
+      "sourceid": "CHN-1155",
+      "ndocuments": 30,
+      "population_density": 2.3872e-06,
+      "area_density": 0.0010806472
+    },
+    {
+      "index": "43",
+      "name": "Benevento",
+      "population": 227137.0,
+      "sqkm": 3677.05741562,
+      "sourceid": "ITA-5398",
+      "ndocuments": 2,
+      "population_density": 8.8053e-06,
+      "area_density": 0.0005439132
+    },
+    {
+      "index": "44",
+      "name": "Bergamo",
+      "population": 1056347.0,
+      "sqkm": 5606.93268615,
+      "sourceid": "ITA-5443",
+      "ndocuments": 2,
+      "population_density": 1.8933e-06,
+      "area_density": 0.0003567013
+    },
+    {
+      "index": "45",
+      "name": "Berlin",
+      "population": 3438261.0,
+      "sqkm": 2389.47570499,
+      "sourceid": "DEU-1599",
+      "ndocuments": 11,
+      "population_density": 3.1993e-06,
+      "area_density": 0.0046035203
+    },
+    {
+      "index": "46",
+      "name": "Bern",
+      "population": 808710.0,
+      "sqkm": 12604.4849915,
+      "sourceid": "CHE-3424",
+      "ndocuments": 1,
+      "population_density": 1.2365e-06,
+      "area_density": 7.93368e-05
+    },
+    {
+      "index": "47",
+      "name": "Birmingham",
+      "population": 1134272.0,
+      "sqkm": 734.683059036,
+      "sourceid": "GBR-5690",
+      "ndocuments": 13,
+      "population_density": 1.14611e-05,
+      "area_density": 0.017694705
+    },
+    {
+      "index": "48",
+      "name": "Bologna",
+      "population": 898328.0,
+      "sqkm": 7189.21804988,
+      "sourceid": "ITA-5362",
+      "ndocuments": 2,
+      "population_density": 2.2264e-06,
+      "area_density": 0.0002781944
+    },
+    {
+      "index": "49",
+      "name": "Borski",
+      "population": 190232.0,
+      "sqkm": 7318.63193501,
+      "sourceid": "SRB-125",
+      "ndocuments": 2,
+      "population_density": 1.05135e-05,
+      "area_density": 0.0002732751
+    },
+    {
+      "index": "50",
+      "name": "Bouches-du-Rh\u00f4ne",
+      "population": 2508452.0,
+      "sqkm": 9834.04456628,
+      "sourceid": "FRA-5274",
+      "ndocuments": 1,
+      "population_density": 3.987e-07,
+      "area_density": 0.0001016876
+    },
+    {
+      "index": "51",
+      "name": "Bournemouth",
+      "population": 163600.0,
+      "sqkm": 57.9657734894,
+      "sourceid": "GBR-2050",
+      "ndocuments": 2,
+      "population_density": 1.22249e-05,
+      "area_density": 0.0345031193
+    },
+    {
+      "index": "52",
+      "name": "Bradford",
+      "population": 484589.0,
+      "sqkm": 871.361270521,
+      "sourceid": "GBR-5673",
+      "ndocuments": 1,
+      "population_density": 2.0636e-06,
+      "area_density": 0.0011476296
+    },
+    {
+      "index": "53",
+      "name": "Braga",
+      "population": 550420.0,
+      "sqkm": 4805.07165745,
+      "sourceid": "PRT-749",
+      "ndocuments": 1,
+      "population_density": 1.8168e-06,
+      "area_density": 0.0002081134
+    },
+    {
+      "index": "54",
+      "name": "Brandenburg",
+      "population": 2128033.0,
+      "sqkm": 80618.8983873,
+      "sourceid": "DEU-3487",
+      "ndocuments": 2,
+      "population_density": 9.398e-07,
+      "area_density": 2.48081e-05
+    },
+    {
+      "index": "55",
+      "name": "Bratislavsk\u00fd",
+      "population": 519500.0,
+      "sqkm": 4720.77052841,
+      "sourceid": "SVK-1051",
+      "ndocuments": 1,
+      "population_density": 1.9249e-06,
+      "area_density": 0.0002118298
+    },
+    {
+      "index": "56",
+      "name": "Brescia",
+      "population": 1309752.0,
+      "sqkm": 9955.24689639,
+      "sourceid": "ITA-5445",
+      "ndocuments": 4,
+      "population_density": 3.054e-06,
+      "area_density": 0.0004017982
+    },
+    {
+      "index": "57",
+      "name": "Bristol",
+      "population": 617280.0,
+      "sqkm": 313.012546673,
+      "sourceid": "GBR-2044",
+      "ndocuments": 3,
+      "population_density": 4.86e-06,
+      "area_density": 0.0095842803
+    },
+    {
+      "index": "58",
+      "name": "British Columbia",
+      "population": 4240414.0,
+      "sqkm": 2857010.52487,
+      "sourceid": "CAN-633",
+      "ndocuments": 17,
+      "population_density": 4.009e-06,
+      "area_density": 5.9503e-06
+    },
+    {
+      "index": "59",
+      "name": "Brussels",
+      "population": 1019022.0,
+      "sqkm": 410.885305935,
+      "sourceid": "BEL-3474",
+      "ndocuments": 3,
+      "population_density": 2.944e-06,
+      "area_density": 0.0073013076
+    },
+    {
+      "index": "60",
+      "name": "Bucharest",
+      "population": 2156252.0,
+      "sqkm": 556.663179507,
+      "sourceid": "ROU-128",
+      "ndocuments": 8,
+      "population_density": 3.7101e-06,
+      "area_density": 0.0143713475
+    },
+    {
+      "index": "61",
+      "name": "Budapest",
+      "population": 1741041.0,
+      "sqkm": 1174.47071273,
+      "sourceid": "HUN-3160",
+      "ndocuments": 2,
+      "population_density": 1.1487e-06,
+      "area_density": 0.0017028947
+    },
+    {
+      "index": "62",
+      "name": "Bukidnon",
+      "population": 622933.0,
+      "sqkm": 9062.93191841,
+      "sourceid": "PHL-2589",
+      "ndocuments": 1,
+      "population_density": 1.6053e-06,
+      "area_density": 0.0001103396
+    },
+    {
+      "index": "63",
+      "name": "Burgos",
+      "population": 356706.0,
+      "sqkm": 26479.4017901,
+      "sourceid": "ESP-5810",
+      "ndocuments": 1,
+      "population_density": 2.8034e-06,
+      "area_density": 3.77652e-05
+    },
+    {
+      "index": "64",
+      "name": "Busan",
+      "population": 3678555.0,
+      "sqkm": 421.160443437,
+      "sourceid": "KOR-2507",
+      "ndocuments": 2,
+      "population_density": 5.437e-07,
+      "area_density": 0.0047487841
+    },
+    {
+      "index": "65",
+      "name": "Butel",
+      "population": 38110.0,
+      "sqkm": 107.143335703,
+      "sourceid": "MKD-2921",
+      "ndocuments": 1,
+      "population_density": 2.62398e-05,
+      "area_density": 0.0093332916
+    },
+    {
+      "index": "66",
+      "name": "Cagliari",
+      "population": 530166.0,
+      "sqkm": 7540.52361692,
+      "sourceid": "ITA-5378",
+      "ndocuments": 2,
+      "population_density": 3.7724e-06,
+      "area_density": 0.0002652336
+    },
+    {
+      "index": "67",
+      "name": "California",
+      "population": 36573529.0,
+      "sqkm": 647035.647997,
+      "sourceid": "USA-3521",
+      "ndocuments": 131,
+      "population_density": 3.5818e-06,
+      "area_density": 0.0002024618
+    },
+    {
+      "index": "68",
+      "name": "Calvados",
+      "population": 659004.0,
+      "sqkm": 13158.1610809,
+      "sourceid": "FRA-5275",
+      "ndocuments": 1,
+      "population_density": 1.5174e-06,
+      "area_density": 7.59985e-05
+    },
+    {
+      "index": "69",
+      "name": "Cambridgeshire",
+      "population": 590032.0,
+      "sqkm": 8162.05598334,
+      "sourceid": "GBR-2053",
+      "ndocuments": 5,
+      "population_density": 8.4741e-06,
+      "area_density": 0.0006125908
+    },
+    {
+      "index": "70",
+      "name": "Camden",
+      "population": 52656.0,
+      "sqkm": 61.4150065167,
+      "sourceid": "GBR-2064",
+      "ndocuments": 22,
+      "population_density": 0.0004178061,
+      "area_density": 0.3582186382
+    },
+    {
+      "index": "71",
+      "name": "Campeche",
+      "population": 799330.0,
+      "sqkm": 63760.5584511,
+      "sourceid": "MEX-2722",
+      "ndocuments": 1,
+      "population_density": 1.251e-06,
+      "area_density": 1.56837e-05
+    },
+    {
+      "index": "72",
+      "name": "Cardiff",
+      "population": 451997.0,
+      "sqkm": 280.067603483,
+      "sourceid": "GBR-2116",
+      "ndocuments": 6,
+      "population_density": 1.32744e-05,
+      "area_density": 0.0214233989
+    },
+    {
+      "index": "73",
+      "name": "Castell\u00f3n",
+      "population": 561894.0,
+      "sqkm": 11446.7146688,
+      "sourceid": "ESP-5814",
+      "ndocuments": 1,
+      "population_density": 1.7797e-06,
+      "area_density": 8.73613e-05
+    },
+    {
+      "index": "74",
+      "name": "Central Finland",
+      "population": 236219.0,
+      "sqkm": 90748.5644978,
+      "sourceid": "FIN-3177",
+      "ndocuments": 1,
+      "population_density": 4.2334e-06,
+      "area_density": 1.10195e-05
+    },
+    {
+      "index": "75",
+      "name": "Central Singapore",
+      "population": 3547809.0,
+      "sqkm": 108.680806113,
+      "sourceid": "SGP-4871",
+      "ndocuments": 7,
+      "population_density": 1.973e-06,
+      "area_density": 0.0644087972
+    },
+    {
+      "index": "76",
+      "name": "Changhua",
+      "population": 124725.0,
+      "sqkm": 1423.13722518,
+      "sourceid": "TWN-1169",
+      "ndocuments": 7,
+      "population_density": 5.61235e-05,
+      "area_density": 0.0049187105
+    },
+    {
+      "index": "77",
+      "name": "Cheshire East",
+      "population": 318236.0,
+      "sqkm": 3121.98410524,
+      "sourceid": "GBR-5706",
+      "ndocuments": 1,
+      "population_density": 3.1423e-06,
+      "area_density": 0.0003203091
+    },
+    {
+      "index": "78",
+      "name": "Cheshire West and Chester",
+      "population": 320578.0,
+      "sqkm": 2606.7772337,
+      "sourceid": "GBR-5707",
+      "ndocuments": 1,
+      "population_density": 3.1194e-06,
+      "area_density": 0.0003836154
+    },
+    {
+      "index": "79",
+      "name": "Chiayi",
+      "population": 500.0,
+      "sqkm": 2346.22648309,
+      "sourceid": "TWN-1170",
+      "ndocuments": 5,
+      "population_density": 0.01,
+      "area_density": 0.0021310816
+    },
+    {
+      "index": "80",
+      "name": "Chiba",
+      "population": 4473011.0,
+      "sqkm": 7696.74496874,
+      "sourceid": "JPN-1855",
+      "ndocuments": 3,
+      "population_density": 6.707e-07,
+      "area_density": 0.0003897752
+    },
+    {
+      "index": "81",
+      "name": "Chongqing",
+      "population": 8278815.0,
+      "sqkm": 109791.194135,
+      "sourceid": "CHN-1154",
+      "ndocuments": 1,
+      "population_density": 1.208e-07,
+      "area_density": 9.1082e-06
+    },
+    {
+      "index": "82",
+      "name": "Ciudad Real",
+      "population": 508101.0,
+      "sqkm": 32514.6354878,
+      "sourceid": "ESP-5816",
+      "ndocuments": 1,
+      "population_density": 1.9681e-06,
+      "area_density": 3.07554e-05
+    },
+    {
+      "index": "83",
+      "name": "Clare",
+      "population": 60204.0,
+      "sqkm": 8835.16868387,
+      "sourceid": "IRL-76",
+      "ndocuments": 2,
+      "population_density": 3.32204e-05,
+      "area_density": 0.0002263681
+    },
+    {
+      "index": "84",
+      "name": "Coimbra",
+      "population": 357290.0,
+      "sqkm": 6769.58130965,
+      "sourceid": "PRT-752",
+      "ndocuments": 2,
+      "population_density": 5.5977e-06,
+      "area_density": 0.0002954392
+    },
+    {
+      "index": "85",
+      "name": "Colorado",
+      "population": 4589390.0,
+      "sqkm": 444840.390284,
+      "sourceid": "USA-3522",
+      "ndocuments": 19,
+      "population_density": 4.14e-06,
+      "area_density": 4.27119e-05
+    },
+    {
+      "index": "86",
+      "name": "Connecticut",
+      "population": 3335361.0,
+      "sqkm": 22675.5606325,
+      "sourceid": "USA-3537",
+      "ndocuments": 19,
+      "population_density": 5.6965e-06,
+      "area_density": 0.0008379065
+    },
+    {
+      "index": "87",
+      "name": "Constanta",
+      "population": 813440.0,
+      "sqkm": 14078.3307711,
+      "sourceid": "ROU-133",
+      "ndocuments": 1,
+      "population_density": 1.2293e-06,
+      "area_density": 7.10311e-05
+    },
+    {
+      "index": "88",
+      "name": "Coquimbo",
+      "population": 456498.0,
+      "sqkm": 50450.3805617,
+      "sourceid": "CHL-2697",
+      "ndocuments": 1,
+      "population_density": 2.1906e-06,
+      "area_density": 1.98215e-05
+    },
+    {
+      "index": "89",
+      "name": "Cork",
+      "population": 190384.0,
+      "sqkm": 158.862949805,
+      "sourceid": "IRL-5569",
+      "ndocuments": 4,
+      "population_density": 2.10102e-05,
+      "area_density": 0.0251789357
+    },
+    {
+      "index": "90",
+      "name": "Coventry",
+      "population": 359262.0,
+      "sqkm": 293.178009907,
+      "sourceid": "GBR-5696",
+      "ndocuments": 5,
+      "population_density": 1.39174e-05,
+      "area_density": 0.0170544851
+    },
+    {
+      "index": "91",
+      "name": "C\u00e1ceres",
+      "population": 412504.0,
+      "sqkm": 33899.0645949,
+      "sourceid": "ESP-5811",
+      "ndocuments": 1,
+      "population_density": 2.4242e-06,
+      "area_density": 2.94993e-05
+    },
+    {
+      "index": "92",
+      "name": "C\u00e1diz",
+      "population": 1247521.0,
+      "sqkm": 11484.6947404,
+      "sourceid": "ESP-5812",
+      "ndocuments": 2,
+      "population_density": 1.6032e-06,
+      "area_density": 0.0001741448
+    },
+    {
+      "index": "93",
+      "name": "Daegu",
+      "population": 2566540.0,
+      "sqkm": 707.740913279,
+      "sourceid": "KOR-2504",
+      "ndocuments": 2,
+      "population_density": 7.793e-07,
+      "area_density": 0.0028258929
+    },
+    {
+      "index": "94",
+      "name": "Daejeon",
+      "population": 1475221.0,
+      "sqkm": 563.230463306,
+      "sourceid": "KOR-2503",
+      "ndocuments": 3,
+      "population_density": 2.0336e-06,
+      "area_density": 0.0053264164
+    },
+    {
+      "index": "95",
+      "name": "Dakar",
+      "population": 3400633.0,
+      "sqkm": 611.199315638,
+      "sourceid": "SEN-759",
+      "ndocuments": 1,
+      "population_density": 2.941e-07,
+      "area_density": 0.0016361275
+    },
+    {
+      "index": "96",
+      "name": "Dalarna",
+      "population": 245364.0,
+      "sqkm": 127846.471009,
+      "sourceid": "SWE-181",
+      "ndocuments": 4,
+      "population_density": 1.63023e-05,
+      "area_density": 3.12875e-05
+    },
+    {
+      "index": "97",
+      "name": "Delaware",
+      "population": 402077.0,
+      "sqkm": 8540.22512948,
+      "sourceid": "USA-3555",
+      "ndocuments": 2,
+      "population_density": 4.9742e-06,
+      "area_density": 0.0002341859
+    },
+    {
+      "index": "98",
+      "name": "Delhi",
+      "population": 11607788.0,
+      "sqkm": 1922.32973719,
+      "sourceid": "IND-2428",
+      "ndocuments": 4,
+      "population_density": 3.446e-07,
+      "area_density": 0.0020808085
+    },
+    {
+      "index": "99",
+      "name": "Derry",
+      "population": 178268.0,
+      "sqkm": 1151.81307136,
+      "sourceid": "GBR-2083",
+      "ndocuments": 1,
+      "population_density": 5.6095e-06,
+      "area_density": 0.0008681964
+    },
+    {
+      "index": "100",
+      "name": "Devon",
+      "population": 625706.0,
+      "sqkm": 16403.7305488,
+      "sourceid": "GBR-2048",
+      "ndocuments": 2,
+      "population_density": 3.1964e-06,
+      "area_density": 0.0001219235
+    },
+    {
+      "index": "101",
+      "name": "Dhaka",
+      "population": 13453519.0,
+      "sqkm": 36669.8447302,
+      "sourceid": "BGD-1806",
+      "ndocuments": 1,
+      "population_density": 7.43e-08,
+      "area_density": 2.72704e-05
+    },
+    {
+      "index": "102",
+      "name": "District of Columbia",
+      "population": 644737.0,
+      "sqkm": 267.237040863,
+      "sourceid": "USA-3556",
+      "ndocuments": 12,
+      "population_density": 1.86122e-05,
+      "area_density": 0.0449039548
+    },
+    {
+      "index": "103",
+      "name": "Distrito Federal",
+      "population": 20447796.0,
+      "sqkm": 1542.13377065,
+      "sourceid": "MEX-2727",
+      "ndocuments": 3,
+      "population_density": 1.467e-07,
+      "area_density": 0.0019453565
+    },
+    {
+      "index": "104",
+      "name": "Donegal",
+      "population": 75695.0,
+      "sqkm": 14440.9547714,
+      "sourceid": "IRL-729",
+      "ndocuments": 2,
+      "population_density": 2.64218e-05,
+      "area_density": 0.000138495
+    },
+    {
+      "index": "105",
+      "name": "Dorset",
+      "population": 341817.0,
+      "sqkm": 6385.76506572,
+      "sourceid": "GBR-2051",
+      "ndocuments": 1,
+      "population_density": 2.9255e-06,
+      "area_density": 0.0001565983
+    },
+    {
+      "index": "106",
+      "name": "Dublin",
+      "population": 1147566.0,
+      "sqkm": 310.151908868,
+      "sourceid": "IRL-5575",
+      "ndocuments": 3,
+      "population_density": 2.6142e-06,
+      "area_density": 0.0096726795
+    },
+    {
+      "index": "107",
+      "name": "Dytiki Ellada",
+      "population": 529937.0,
+      "sqkm": 17700.5576271,
+      "sourceid": "GRC-2886",
+      "ndocuments": 1,
+      "population_density": 1.887e-06,
+      "area_density": 5.64954e-05
+    },
+    {
+      "index": "108",
+      "name": "D\u00e2mbovita",
+      "population": 727284.0,
+      "sqkm": 7704.65273036,
+      "sourceid": "ROU-130",
+      "ndocuments": 1,
+      "population_density": 1.375e-06,
+      "area_density": 0.0001297917
+    },
+    {
+      "index": "109",
+      "name": "D\u00fan Laoghaire\u2013Rathdown",
+      "population": 318885.0,
+      "sqkm": 379.71832475,
+      "sourceid": "IRL-5576",
+      "ndocuments": 1,
+      "population_density": 3.1359e-06,
+      "area_density": 0.0026335311
+    },
+    {
+      "index": "110",
+      "name": "East Flanders",
+      "population": 1330114.0,
+      "sqkm": 7503.59343709,
+      "sourceid": "BEL-3478",
+      "ndocuments": 6,
+      "population_density": 4.5109e-06,
+      "area_density": 0.0007996169
+    },
+    {
+      "index": "111",
+      "name": "East Sussex",
+      "population": 490904.0,
+      "sqkm": 4194.24094338,
+      "sourceid": "GBR-2677",
+      "ndocuments": 4,
+      "population_density": 8.1482e-06,
+      "area_density": 0.0009536887
+    },
+    {
+      "index": "112",
+      "name": "Edinburgh",
+      "population": 504380.0,
+      "sqkm": 923.537677116,
+      "sourceid": "GBR-2023",
+      "ndocuments": 5,
+      "population_density": 9.9132e-06,
+      "area_density": 0.0054139643
+    },
+    {
+      "index": "113",
+      "name": "Edirne",
+      "population": 236959.0,
+      "sqkm": 9462.38580675,
+      "sourceid": "TUR-2240",
+      "ndocuments": 1,
+      "population_density": 4.2201e-06,
+      "area_density": 0.0001056816
+    },
+    {
+      "index": "114",
+      "name": "Essex",
+      "population": 1317519.0,
+      "sqkm": 8821.62248048,
+      "sourceid": "GBR-2317",
+      "ndocuments": 2,
+      "population_density": 1.518e-06,
+      "area_density": 0.0002267157
+    },
+    {
+      "index": "115",
+      "name": "Essonne",
+      "population": 1202768.0,
+      "sqkm": 4175.51200632,
+      "sourceid": "FRA-5289",
+      "ndocuments": 4,
+      "population_density": 3.3257e-06,
+      "area_density": 0.0009579664
+    },
+    {
+      "index": "116",
+      "name": "Fars",
+      "population": 1927409.0,
+      "sqkm": 165109.13714,
+      "sourceid": "IRN-3212",
+      "ndocuments": 1,
+      "population_density": 5.188e-07,
+      "area_density": 6.0566e-06
+    },
+    {
+      "index": "117",
+      "name": "Finland Proper",
+      "population": 448592.0,
+      "sqkm": 40072.7503292,
+      "sourceid": "FIN-3191",
+      "ndocuments": 3,
+      "population_density": 6.6876e-06,
+      "area_density": 7.48638e-05
+    },
+    {
+      "index": "118",
+      "name": "Firenze",
+      "population": 893061.0,
+      "sqkm": 6782.24345312,
+      "sourceid": "ITA-5386",
+      "ndocuments": 1,
+      "population_density": 1.1197e-06,
+      "area_density": 0.0001474438
+    },
+    {
+      "index": "119",
+      "name": "Flemish Brabant",
+      "population": 983440.0,
+      "sqkm": 5311.81931585,
+      "sourceid": "BEL-3475",
+      "ndocuments": 5,
+      "population_density": 5.0842e-06,
+      "area_density": 0.0009412971
+    },
+    {
+      "index": "120",
+      "name": "Florida",
+      "population": 15730577.0,
+      "sqkm": 190431.137439,
+      "sourceid": "USA-3542",
+      "ndocuments": 43,
+      "population_density": 2.7335e-06,
+      "area_density": 0.0002258034
+    },
+    {
+      "index": "121",
+      "name": "Forl\u00ec-Cesena",
+      "population": 341348.0,
+      "sqkm": 4542.80573362,
+      "sourceid": "ITA-5365",
+      "ndocuments": 1,
+      "population_density": 2.9296e-06,
+      "area_density": 0.0002201283
+    },
+    {
+      "index": "122",
+      "name": "Fukuoka",
+      "population": 3899783.0,
+      "sqkm": 7253.68747001,
+      "sourceid": "JPN-1829",
+      "ndocuments": 2,
+      "population_density": 5.128e-07,
+      "area_density": 0.0002757218
+    },
+    {
+      "index": "123",
+      "name": "Gauteng",
+      "population": 10703377.0,
+      "sqkm": 23343.5611114,
+      "sourceid": "ZAF-1208",
+      "ndocuments": 1,
+      "population_density": 9.34e-08,
+      "area_density": 4.28384e-05
+    },
+    {
+      "index": "124",
+      "name": "Gelderland",
+      "population": 1871154.0,
+      "sqkm": 13526.3644053,
+      "sourceid": "NLD-896",
+      "ndocuments": 17,
+      "population_density": 9.0853e-06,
+      "area_density": 0.0012568048
+    },
+    {
+      "index": "125",
+      "name": "Genova",
+      "population": 855059.0,
+      "sqkm": 3630.3341153,
+      "sourceid": "ITA-5367",
+      "ndocuments": 3,
+      "population_density": 3.5085e-06,
+      "area_density": 0.0008263702
+    },
+    {
+      "index": "126",
+      "name": "Gen\u00e8ve",
+      "population": 405909.0,
+      "sqkm": 579.135715247,
+      "sourceid": "CHE-159",
+      "ndocuments": 3,
+      "population_density": 7.3908e-06,
+      "area_density": 0.0051801329
+    },
+    {
+      "index": "127",
+      "name": "Georgia",
+      "population": 4536454.0,
+      "sqkm": 214371.710027,
+      "sourceid": "USA-3543",
+      "ndocuments": 31,
+      "population_density": 6.8335e-06,
+      "area_density": 0.0001446086
+    },
+    {
+      "index": "128",
+      "name": "Gerona",
+      "population": 650462.0,
+      "sqkm": 10641.2692242,
+      "sourceid": "ESP-5820",
+      "ndocuments": 1,
+      "population_density": 1.5374e-06,
+      "area_density": 9.39738e-05
+    },
+    {
+      "index": "129",
+      "name": "Gironde",
+      "population": 1353489.0,
+      "sqkm": 20120.5051695,
+      "sourceid": "FRA-5295",
+      "ndocuments": 2,
+      "population_density": 1.4777e-06,
+      "area_density": 9.94011e-05
+    },
+    {
+      "index": "130",
+      "name": "Glasgow",
+      "population": 642980.0,
+      "sqkm": 508.9753502,
+      "sourceid": "GBR-2004",
+      "ndocuments": 7,
+      "population_density": 1.08868e-05,
+      "area_density": 0.0137531218
+    },
+    {
+      "index": "131",
+      "name": "Goa",
+      "population": 834209.0,
+      "sqkm": 3676.79425353,
+      "sourceid": "IND-3265",
+      "ndocuments": 1,
+      "population_density": 1.1987e-06,
+      "area_density": 0.0002719761
+    },
+    {
+      "index": "132",
+      "name": "Grad Beograd",
+      "population": 1565574.0,
+      "sqkm": 6609.03088926,
+      "sourceid": "SRB-836",
+      "ndocuments": 4,
+      "population_density": 2.555e-06,
+      "area_density": 0.0006052325
+    },
+    {
+      "index": "133",
+      "name": "Grad Zagreb",
+      "population": 850639.0,
+      "sqkm": 1445.16603855,
+      "sourceid": "HRV-1589",
+      "ndocuments": 2,
+      "population_density": 2.3512e-06,
+      "area_density": 0.001383924
+    },
+    {
+      "index": "134",
+      "name": "Granada",
+      "population": 857137.0,
+      "sqkm": 20000.6870899,
+      "sourceid": "ESP-5821",
+      "ndocuments": 1,
+      "population_density": 1.1667e-06,
+      "area_density": 4.99983e-05
+    },
+    {
+      "index": "135",
+      "name": "Graub\u00fcnden",
+      "population": 167164.0,
+      "sqkm": 14848.9911008,
+      "sourceid": "CHE-170",
+      "ndocuments": 1,
+      "population_density": 5.9821e-06,
+      "area_density": 6.73446e-05
+    },
+    {
+      "index": "136",
+      "name": "Greater Poland",
+      "population": 2241110.0,
+      "sqkm": 78798.0178361,
+      "sourceid": "POL-3144",
+      "ndocuments": 2,
+      "population_density": 8.924e-07,
+      "area_density": 2.53813e-05
+    },
+    {
+      "index": "137",
+      "name": "Groningen",
+      "population": 527052.0,
+      "sqkm": 6654.70694237,
+      "sourceid": "NLD-897",
+      "ndocuments": 1,
+      "population_density": 1.8973e-06,
+      "area_density": 0.0001502696
+    },
+    {
+      "index": "138",
+      "name": "Guangdong",
+      "population": 55091708.0,
+      "sqkm": 208083.10376,
+      "sourceid": "CHN-1180",
+      "ndocuments": 7,
+      "population_density": 1.271e-07,
+      "area_density": 3.36404e-05
+    },
+    {
+      "index": "139",
+      "name": "Guangxi",
+      "population": 3553524.0,
+      "sqkm": 283426.355658,
+      "sourceid": "CHN-1152",
+      "ndocuments": 2,
+      "population_density": 5.628e-07,
+      "area_density": 7.0565e-06
+    },
+    {
+      "index": "140",
+      "name": "Gyeonggi",
+      "population": 8057348.0,
+      "sqkm": 16192.3142985,
+      "sourceid": "KOR-2498",
+      "ndocuments": 2,
+      "population_density": 2.482e-07,
+      "area_density": 0.0001235154
+    },
+    {
+      "index": "141",
+      "name": "HaMerkaz",
+      "population": 1468266.0,
+      "sqkm": 1631.37221825,
+      "sourceid": "ISR-3055",
+      "ndocuments": 3,
+      "population_density": 2.0432e-06,
+      "area_density": 0.0018389427
+    },
+    {
+      "index": "142",
+      "name": "Hackney",
+      "population": 0.0,
+      "sqkm": 50.5954255482,
+      "sourceid": "GBR-2765",
+      "ndocuments": 1,
+      "population_density": null,
+      "area_density": 0.0197646327
+    },
+    {
+      "index": "143",
+      "name": "Haifa",
+      "population": 645317.0,
+      "sqkm": 1205.51094488,
+      "sourceid": "ISR-3054",
+      "ndocuments": 7,
+      "population_density": 1.08474e-05,
+      "area_density": 0.0058066665
+    },
+    {
+      "index": "144",
+      "name": "Halland",
+      "population": 271230.0,
+      "sqkm": 19792.9517415,
+      "sourceid": "SWE-187",
+      "ndocuments": 1,
+      "population_density": 3.6869e-06,
+      "area_density": 5.0523e-05
+    },
+    {
+      "index": "145",
+      "name": "Halton",
+      "population": 503067.0,
+      "sqkm": 468.57635937,
+      "sourceid": "GBR-2108",
+      "ndocuments": 1,
+      "population_density": 1.9878e-06,
+      "area_density": 0.0021341239
+    },
+    {
+      "index": "146",
+      "name": "Hamburg",
+      "population": 1759338.0,
+      "sqkm": 2181.83384615,
+      "sourceid": "DEU-1578",
+      "ndocuments": 4,
+      "population_density": 2.2736e-06,
+      "area_density": 0.0018333202
+    },
+    {
+      "index": "147",
+      "name": "Hampshire",
+      "population": 1113935.0,
+      "sqkm": 9188.13312753,
+      "sourceid": "GBR-2035",
+      "ndocuments": 1,
+      "population_density": 8.977e-07,
+      "area_density": 0.000108836
+    },
+    {
+      "index": "148",
+      "name": "Haringey",
+      "population": 232167.0,
+      "sqkm": 75.5942202446,
+      "sourceid": "GBR-2766",
+      "ndocuments": 2,
+      "population_density": 8.6145e-06,
+      "area_density": 0.0264570491
+    },
+    {
+      "index": "149",
+      "name": "Harju",
+      "population": 503313.0,
+      "sqkm": 17206.4245901,
+      "sourceid": "EST-1654",
+      "ndocuments": 3,
+      "population_density": 5.9605e-06,
+      "area_density": 0.0001743535
+    },
+    {
+      "index": "150",
+      "name": "Haute-Garonne",
+      "population": 1154584.0,
+      "sqkm": 12018.0490548,
+      "sourceid": "FRA-5298",
+      "ndocuments": 3,
+      "population_density": 2.5983e-06,
+      "area_density": 0.0002496245
+    },
+    {
+      "index": "151",
+      "name": "Haute-Rhin",
+      "population": 738724.0,
+      "sqkm": 7547.36217396,
+      "sourceid": "FRA-5296",
+      "ndocuments": 1,
+      "population_density": 1.3537e-06,
+      "area_density": 0.0001324966
+    },
+    {
+      "index": "152",
+      "name": "Hauts-de-Seine",
+      "population": 1400705.0,
+      "sqkm": 384.520267727,
+      "sourceid": "FRA-5306",
+      "ndocuments": 1,
+      "population_density": 7.139e-07,
+      "area_density": 0.0026006431
+    },
+    {
+      "index": "153",
+      "name": "Havering",
+      "population": 105000.0,
+      "sqkm": 310.765450015,
+      "sourceid": "GBR-2675",
+      "ndocuments": 1,
+      "population_density": 9.5238e-06,
+      "area_density": 0.0032178609
+    },
+    {
+      "index": "154",
+      "name": "Hawaii",
+      "population": 1353301.0,
+      "sqkm": 19132.1197437,
+      "sourceid": "USA-3517",
+      "ndocuments": 5,
+      "population_density": 3.6947e-06,
+      "area_density": 0.0002613406
+    },
+    {
+      "index": "155",
+      "name": "Hawalli",
+      "population": 164212.0,
+      "sqkm": 78.042935289,
+      "sourceid": "KWT-3506",
+      "ndocuments": 1,
+      "population_density": 6.0897e-06,
+      "area_density": 0.0128134596
+    },
+    {
+      "index": "156",
+      "name": "Heilongjiang",
+      "population": 16434708.0,
+      "sqkm": 1005661.84744,
+      "sourceid": "CHN-1839",
+      "ndocuments": 4,
+      "population_density": 2.434e-07,
+      "area_density": 3.9775e-06
+    },
+    {
+      "index": "157",
+      "name": "Henan",
+      "population": 16485954.0,
+      "sqkm": 240696.798934,
+      "sourceid": "CHN-1812",
+      "ndocuments": 1,
+      "population_density": 6.07e-08,
+      "area_density": 4.1546e-06
+    },
+    {
+      "index": "158",
+      "name": "Hertfordshire",
+      "population": 1083599.0,
+      "sqkm": 4257.84044467,
+      "sourceid": "GBR-2042",
+      "ndocuments": 4,
+      "population_density": 3.6914e-06,
+      "area_density": 0.0009394434
+    },
+    {
+      "index": "159",
+      "name": "Hessen",
+      "population": 5393531.0,
+      "sqkm": 51959.4876542,
+      "sourceid": "DEU-1574",
+      "ndocuments": 6,
+      "population_density": 1.1124e-06,
+      "area_density": 0.0001154746
+    },
+    {
+      "index": "160",
+      "name": "Highland",
+      "population": 160364.0,
+      "sqkm": 89448.9647323,
+      "sourceid": "GBR-2745",
+      "ndocuments": 1,
+      "population_density": 6.2358e-06,
+      "area_density": 1.11796e-05
+    },
+    {
+      "index": "161",
+      "name": "Hiroshima",
+      "population": 2259859.0,
+      "sqkm": 12228.2804464,
+      "sourceid": "JPN-1821",
+      "ndocuments": 1,
+      "population_density": 4.425e-07,
+      "area_density": 8.17776e-05
+    },
+    {
+      "index": "162",
+      "name": "Hokkaid\u014d",
+      "population": 4543392.0,
+      "sqkm": 148736.36002,
+      "sourceid": "JPN-1847",
+      "ndocuments": 1,
+      "population_density": 2.201e-07,
+      "area_density": 6.7233e-06
+    },
+    {
+      "index": "163",
+      "name": "Hordaland",
+      "population": 335099.0,
+      "sqkm": 60117.7316896,
+      "sourceid": "NOR-913",
+      "ndocuments": 1,
+      "population_density": 2.9842e-06,
+      "area_density": 1.6634e-05
+    },
+    {
+      "index": "164",
+      "name": "Hovedstaden",
+      "population": 1939844.0,
+      "sqkm": 7927.01947347,
+      "sourceid": "DNK-3419",
+      "ndocuments": 1,
+      "population_density": 5.155e-07,
+      "area_density": 0.0001261508
+    },
+    {
+      "index": "165",
+      "name": "Hsinchu",
+      "population": 0.0,
+      "sqkm": 1670.27628851,
+      "sourceid": "TWN-1162",
+      "ndocuments": 5,
+      "population_density": null,
+      "area_density": 0.0029935167
+    },
+    {
+      "index": "166",
+      "name": "Hsinchu City",
+      "population": 404109.0,
+      "sqkm": 186.505435143,
+      "sourceid": "TWN-1161",
+      "ndocuments": 2,
+      "population_density": 4.9492e-06,
+      "area_density": 0.0107235481
+    },
+    {
+      "index": "167",
+      "name": "Hubei",
+      "population": 20730841.0,
+      "sqkm": 252112.122302,
+      "sourceid": "CHN-1807",
+      "ndocuments": 3,
+      "population_density": 1.447e-07,
+      "area_density": 1.18995e-05
+    },
+    {
+      "index": "168",
+      "name": "Huelva",
+      "population": 469520.0,
+      "sqkm": 16095.3947982,
+      "sourceid": "ESP-5824",
+      "ndocuments": 5,
+      "population_density": 1.06492e-05,
+      "area_density": 0.0003106479
+    },
+    {
+      "index": "169",
+      "name": "Hy\u014dgo",
+      "population": 4892846.0,
+      "sqkm": 12476.2301996,
+      "sourceid": "JPN-1849",
+      "ndocuments": 1,
+      "population_density": 2.044e-07,
+      "area_density": 8.01524e-05
+    },
+    {
+      "index": "170",
+      "name": "H\u00e9rault",
+      "population": 989807.0,
+      "sqkm": 11741.9194187,
+      "sourceid": "FRA-5307",
+      "ndocuments": 1,
+      "population_density": 1.0103e-06,
+      "area_density": 8.5165e-05
+    },
+    {
+      "index": "171",
+      "name": "Iasi",
+      "population": 1027317.0,
+      "sqkm": 11962.5145828,
+      "sourceid": "ROU-308",
+      "ndocuments": 3,
+      "population_density": 2.9202e-06,
+      "area_density": 0.0002507834
+    },
+    {
+      "index": "172",
+      "name": "Ibaraki",
+      "population": 2315375.0,
+      "sqkm": 9731.05582577,
+      "sourceid": "JPN-1856",
+      "ndocuments": 6,
+      "population_density": 2.5914e-06,
+      "area_density": 0.0006165826
+    },
+    {
+      "index": "173",
+      "name": "Ille-et-Vilaine",
+      "population": 880847.0,
+      "sqkm": 15071.3574983,
+      "sourceid": "FRA-5308",
+      "ndocuments": 1,
+      "population_density": 1.1353e-06,
+      "area_density": 6.6351e-05
+    },
+    {
+      "index": "174",
+      "name": "Illinois",
+      "population": 11897438.0,
+      "sqkm": 256368.200148,
+      "sourceid": "USA-3546",
+      "ndocuments": 54,
+      "population_density": 4.5388e-06,
+      "area_density": 0.0002106345
+    },
+    {
+      "index": "175",
+      "name": "Indiana",
+      "population": 4620694.0,
+      "sqkm": 160019.796416,
+      "sourceid": "USA-3547",
+      "ndocuments": 31,
+      "population_density": 6.7089e-06,
+      "area_density": 0.000193726
+    },
+    {
+      "index": "176",
+      "name": "Ionioi Nisoi",
+      "population": 199926.0,
+      "sqkm": 3659.22943801,
+      "sourceid": "GRC-2883",
+      "ndocuments": 1,
+      "population_density": 5.0019e-06,
+      "area_density": 0.0002732816
+    },
+    {
+      "index": "177",
+      "name": "Iowa",
+      "population": 2468049.0,
+      "sqkm": 263313.514996,
+      "sourceid": "USA-3529",
+      "ndocuments": 7,
+      "population_density": 2.8362e-06,
+      "area_density": 2.65843e-05
+    },
+    {
+      "index": "178",
+      "name": "Islington",
+      "population": 319143.0,
+      "sqkm": 30.1642981554,
+      "sourceid": "GBR-2071",
+      "ndocuments": 5,
+      "population_density": 1.5667e-05,
+      "area_density": 0.1657588708
+    },
+    {
+      "index": "179",
+      "name": "Istanbul",
+      "population": 21050168.0,
+      "sqkm": 8455.2783034,
+      "sourceid": "TUR-2265",
+      "ndocuments": 4,
+      "population_density": 1.9e-07,
+      "area_density": 0.0004730773
+    },
+    {
+      "index": "180",
+      "name": "Izmir",
+      "population": 3566540.0,
+      "sqkm": 21005.5358496,
+      "sourceid": "TUR-2230",
+      "ndocuments": 1,
+      "population_density": 2.804e-07,
+      "area_density": 4.76065e-05
+    },
+    {
+      "index": "181",
+      "name": "Izola",
+      "population": 14941.0,
+      "sqkm": 42.0238503001,
+      "sourceid": "SVN-1027",
+      "ndocuments": 2,
+      "population_density": 0.0001338598,
+      "area_density": 0.0475920218
+    },
+    {
+      "index": "182",
+      "name": "Jerusalem",
+      "population": 103689.0,
+      "sqkm": 692.569544005,
+      "sourceid": "ISR-3058",
+      "ndocuments": 1,
+      "population_density": 9.6442e-06,
+      "area_density": 0.0014438983
+    },
+    {
+      "index": "183",
+      "name": "Jiangsu",
+      "population": 27278881.0,
+      "sqkm": 142022.213813,
+      "sourceid": "CHN-1818",
+      "ndocuments": 4,
+      "population_density": 1.466e-07,
+      "area_density": 2.81646e-05
+    },
+    {
+      "index": "184",
+      "name": "Jiangxi",
+      "population": 4654308.0,
+      "sqkm": 213563.670521,
+      "sourceid": "CHN-1817",
+      "ndocuments": 2,
+      "population_density": 4.297e-07,
+      "area_density": 9.3649e-06
+    },
+    {
+      "index": "185",
+      "name": "Jihomoravsk\u00fd",
+      "population": 1102013.0,
+      "sqkm": 16461.5167496,
+      "sourceid": "CZE-10370",
+      "ndocuments": 3,
+      "population_density": 2.7223e-06,
+      "area_density": 0.0001822432
+    },
+    {
+      "index": "186",
+      "name": "Jilin",
+      "population": 12237460.0,
+      "sqkm": 364313.584486,
+      "sourceid": "CHN-1828",
+      "ndocuments": 3,
+      "population_density": 2.451e-07,
+      "area_density": 8.2347e-06
+    },
+    {
+      "index": "187",
+      "name": "Johor",
+      "population": 2182377.0,
+      "sqkm": 19218.0540877,
+      "sourceid": "MYS-1143",
+      "ndocuments": 8,
+      "population_density": 3.6657e-06,
+      "area_density": 0.0004162752
+    },
+    {
+      "index": "188",
+      "name": "Kanagawa",
+      "population": 7705598.0,
+      "sqkm": 3580.36106145,
+      "sourceid": "JPN-1857",
+      "ndocuments": 4,
+      "population_density": 5.191e-07,
+      "area_density": 0.0011172058
+    },
+    {
+      "index": "189",
+      "name": "Kansas",
+      "population": 2393807.0,
+      "sqkm": 346561.895051,
+      "sourceid": "USA-3530",
+      "ndocuments": 4,
+      "population_density": 1.671e-06,
+      "area_density": 1.15419e-05
+    },
+    {
+      "index": "190",
+      "name": "Kaohsiung City",
+      "population": 1519711.0,
+      "sqkm": 3562.90146333,
+      "sourceid": "TWN-1156",
+      "ndocuments": 11,
+      "population_density": 7.2382e-06,
+      "area_density": 0.0030873714
+    },
+    {
+      "index": "191",
+      "name": "Karnataka",
+      "population": 18279940.0,
+      "sqkm": 205175.299749,
+      "sourceid": "IND-2446",
+      "ndocuments": 4,
+      "population_density": 2.188e-07,
+      "area_density": 1.94955e-05
+    },
+    {
+      "index": "192",
+      "name": "Kayseri",
+      "population": 798377.0,
+      "sqkm": 28685.0250306,
+      "sourceid": "TUR-2287",
+      "ndocuments": 1,
+      "population_density": 1.2525e-06,
+      "area_density": 3.48614e-05
+    },
+    {
+      "index": "193",
+      "name": "Kedah",
+      "population": 763369.0,
+      "sqkm": 8800.35162851,
+      "sourceid": "MYS-1140",
+      "ndocuments": 1,
+      "population_density": 1.31e-06,
+      "area_density": 0.0001136318
+    },
+    {
+      "index": "194",
+      "name": "Kensington and Chelsea",
+      "population": 0.0,
+      "sqkm": 28.7182307603,
+      "sourceid": "GBR-2072",
+      "ndocuments": 5,
+      "population_density": null,
+      "area_density": 0.1741054329
+    },
+    {
+      "index": "195",
+      "name": "Kent",
+      "population": 1446636.0,
+      "sqkm": 9012.47618543,
+      "sourceid": "GBR-3409",
+      "ndocuments": 4,
+      "population_density": 2.765e-06,
+      "area_density": 0.0004438292
+    },
+    {
+      "index": "196",
+      "name": "Kentriki Makedonia",
+      "population": 1607067.0,
+      "sqkm": 33407.1795682,
+      "sourceid": "GRC-2991",
+      "ndocuments": 4,
+      "population_density": 2.489e-06,
+      "area_density": 0.0001197347
+    },
+    {
+      "index": "197",
+      "name": "Kentucky",
+      "population": 3229471.0,
+      "sqkm": 165899.925342,
+      "sourceid": "USA-3548",
+      "ndocuments": 16,
+      "population_density": 4.9544e-06,
+      "area_density": 9.64437e-05
+    },
+    {
+      "index": "198",
+      "name": "Kerala",
+      "population": 6273345.0,
+      "sqkm": 39006.5188685,
+      "sourceid": "IND-2442",
+      "ndocuments": 1,
+      "population_density": 1.594e-07,
+      "area_density": 2.56367e-05
+    },
+    {
+      "index": "199",
+      "name": "Kerman",
+      "population": 1230211.0,
+      "sqkm": 241915.704425,
+      "sourceid": "IRN-3248",
+      "ndocuments": 1,
+      "population_density": 8.129e-07,
+      "area_density": 4.1337e-06
+    },
+    {
+      "index": "200",
+      "name": "Kildare",
+      "population": 179384.0,
+      "sqkm": 4771.79900862,
+      "sourceid": "IRL-721",
+      "ndocuments": 1,
+      "population_density": 5.5746e-06,
+      "area_density": 0.0002095646
+    },
+    {
+      "index": "201",
+      "name": "Kirklees",
+      "population": 384836.0,
+      "sqkm": 1225.85078271,
+      "sourceid": "GBR-5671",
+      "ndocuments": 1,
+      "population_density": 2.5985e-06,
+      "area_density": 0.00081576
+    },
+    {
+      "index": "202",
+      "name": "Kowloon City",
+      "population": 0.0,
+      "sqkm": 15.2268583408,
+      "sourceid": "HKG-5158",
+      "ndocuments": 11,
+      "population_density": null,
+      "area_density": 0.7224077189
+    },
+    {
+      "index": "203",
+      "name": "Kronoberg",
+      "population": 150958.0,
+      "sqkm": 31149.560655,
+      "sourceid": "SWE-182",
+      "ndocuments": 1,
+      "population_density": 6.6244e-06,
+      "area_density": 3.21032e-05
+    },
+    {
+      "index": "204",
+      "name": "Kuala Lumpur",
+      "population": 1453975.0,
+      "sqkm": 239.767792777,
+      "sourceid": "MYS-4831",
+      "ndocuments": 5,
+      "population_density": 3.4388e-06,
+      "area_density": 0.0208535097
+    },
+    {
+      "index": "205",
+      "name": "Kumamoto",
+      "population": 1169171.0,
+      "sqkm": 10202.5509019,
+      "sourceid": "JPN-1830",
+      "ndocuments": 4,
+      "population_density": 3.4212e-06,
+      "area_density": 0.0003920588
+    },
+    {
+      "index": "206",
+      "name": "Ky\u014dto",
+      "population": 2293971.0,
+      "sqkm": 6898.4537795,
+      "sourceid": "JPN-1850",
+      "ndocuments": 6,
+      "population_density": 2.6156e-06,
+      "area_density": 0.0008697601
+    },
+    {
+      "index": "207",
+      "name": "K\u00e4rnten",
+      "population": 589340.0,
+      "sqkm": 20490.9774535,
+      "sourceid": "AUT-2325",
+      "ndocuments": 2,
+      "population_density": 3.3936e-06,
+      "area_density": 9.76039e-05
+    },
+    {
+      "index": "208",
+      "name": "L'Aquila",
+      "population": 297479.0,
+      "sqkm": 9229.7196934,
+      "sourceid": "ITA-5420",
+      "ndocuments": 1,
+      "population_density": 3.3616e-06,
+      "area_density": 0.0001083457
+    },
+    {
+      "index": "209",
+      "name": "La Coru\u00f1a",
+      "population": 975463.0,
+      "sqkm": 14852.6872376,
+      "sourceid": "ESP-5827",
+      "ndocuments": 1,
+      "population_density": 1.0252e-06,
+      "area_density": 6.73279e-05
+    },
+    {
+      "index": "210",
+      "name": "Lambeth",
+      "population": 16458.0,
+      "sqkm": 74.8399137311,
+      "sourceid": "GBR-2768",
+      "ndocuments": 3,
+      "population_density": 0.0001822822,
+      "area_density": 0.040085562
+    },
+    {
+      "index": "211",
+      "name": "Lancashire",
+      "population": 1291339.0,
+      "sqkm": 8050.92049617,
+      "sourceid": "GBR-2123",
+      "ndocuments": 1,
+      "population_density": 7.744e-07,
+      "area_density": 0.0001242094
+    },
+    {
+      "index": "212",
+      "name": "Lapland",
+      "population": 147602.0,
+      "sqkm": 681486.455293,
+      "sourceid": "FIN-3176",
+      "ndocuments": 1,
+      "population_density": 6.775e-06,
+      "area_density": 1.4674e-06
+    },
+    {
+      "index": "213",
+      "name": "Las Palmas",
+      "population": 1244122.0,
+      "sqkm": 5221.63012415,
+      "sourceid": "ESP-5829",
+      "ndocuments": 3,
+      "population_density": 2.4113e-06,
+      "area_density": 0.0005745332
+    },
+    {
+      "index": "214",
+      "name": "Lattakia",
+      "population": 406096.0,
+      "sqkm": 3629.08895888,
+      "sourceid": "SYR-134",
+      "ndocuments": 2,
+      "population_density": 4.9249e-06,
+      "area_density": 0.0005511025
+    },
+    {
+      "index": "215",
+      "name": "Leeds",
+      "population": 788513.0,
+      "sqkm": 1571.61578424,
+      "sourceid": "GBR-5674",
+      "ndocuments": 9,
+      "population_density": 1.14139e-05,
+      "area_density": 0.0057265905
+    },
+    {
+      "index": "216",
+      "name": "Leicester",
+      "population": 572120.0,
+      "sqkm": 176.593011958,
+      "sourceid": "GBR-2761",
+      "ndocuments": 4,
+      "population_density": 6.9915e-06,
+      "area_density": 0.0226509529
+    },
+    {
+      "index": "217",
+      "name": "Leicestershire",
+      "population": 485014.0,
+      "sqkm": 5562.68029593,
+      "sourceid": "GBR-2054",
+      "ndocuments": 5,
+      "population_density": 1.0309e-05,
+      "area_density": 0.0008988473
+    },
+    {
+      "index": "218",
+      "name": "Lesser Poland",
+      "population": 2459377.0,
+      "sqkm": 37401.1706399,
+      "sourceid": "POL-3170",
+      "ndocuments": 2,
+      "population_density": 8.132e-07,
+      "area_density": 5.34743e-05
+    },
+    {
+      "index": "219",
+      "name": "Lewisham",
+      "population": 25116.0,
+      "sqkm": 83.6646354639,
+      "sourceid": "GBR-2769",
+      "ndocuments": 1,
+      "population_density": 3.98153e-05,
+      "area_density": 0.0119524814
+    },
+    {
+      "index": "220",
+      "name": "Liege",
+      "population": 976219.0,
+      "sqkm": 9233.6865687,
+      "sourceid": "BEL-3481",
+      "ndocuments": 1,
+      "population_density": 1.0244e-06,
+      "area_density": 0.0001082991
+    },
+    {
+      "index": "221",
+      "name": "Limburg",
+      "population": 1047040.0,
+      "sqkm": 5312.73758284,
+      "sourceid": "NLD-898",
+      "ndocuments": 10,
+      "population_density": 9.5507e-06,
+      "area_density": 0.0018822688
+    },
+    {
+      "index": "222",
+      "name": "Lisboa",
+      "population": 2250442.0,
+      "sqkm": 4526.99810801,
+      "sourceid": "PRT-746",
+      "ndocuments": 6,
+      "population_density": 2.6661e-06,
+      "area_density": 0.0013253816
+    },
+    {
+      "index": "223",
+      "name": "Liverpool",
+      "population": 997024.0,
+      "sqkm": 311.456303089,
+      "sourceid": "GBR-5668",
+      "ndocuments": 2,
+      "population_density": 2.006e-06,
+      "area_density": 0.0064214465
+    },
+    {
+      "index": "224",
+      "name": "Ljubljana",
+      "population": 280619.0,
+      "sqkm": 571.989139417,
+      "sourceid": "SVN-962",
+      "ndocuments": 5,
+      "population_density": 1.78178e-05,
+      "area_density": 0.0087414247
+    },
+    {
+      "index": "225",
+      "name": "Louisiana",
+      "population": 3180701.0,
+      "sqkm": 162767.234945,
+      "sourceid": "USA-3535",
+      "ndocuments": 2,
+      "population_density": 6.288e-07,
+      "area_density": 1.22875e-05
+    },
+    {
+      "index": "226",
+      "name": "Lower Silesian",
+      "population": 2332509.0,
+      "sqkm": 49601.205317,
+      "sourceid": "POL-3141",
+      "ndocuments": 3,
+      "population_density": 1.2862e-06,
+      "area_density": 6.04824e-05
+    },
+    {
+      "index": "227",
+      "name": "Lucerne",
+      "population": 320439.0,
+      "sqkm": 3141.1509583,
+      "sourceid": "CHE-163",
+      "ndocuments": 2,
+      "population_density": 6.2414e-06,
+      "area_density": 0.0006367093
+    },
+    {
+      "index": "228",
+      "name": "Luton",
+      "population": 261130.0,
+      "sqkm": 179.572605686,
+      "sourceid": "GBR-2752",
+      "ndocuments": 1,
+      "population_density": 3.8295e-06,
+      "area_density": 0.0055687781
+    },
+    {
+      "index": "229",
+      "name": "Macau",
+      "population": 520400.0,
+      "sqkm": 35.0311946413,
+      "sourceid": "MAC+00?",
+      "ndocuments": 1,
+      "population_density": 1.9216e-06,
+      "area_density": 0.0285459862
+    },
+    {
+      "index": "230",
+      "name": "Madhya Pradesh",
+      "population": 15447052.0,
+      "sqkm": 368074.393149,
+      "sourceid": "IND-3261",
+      "ndocuments": 3,
+      "population_density": 1.942e-07,
+      "area_density": 8.1505e-06
+    },
+    {
+      "index": "231",
+      "name": "Madrid",
+      "population": 6866071.0,
+      "sqkm": 13796.4482245,
+      "sourceid": "ESP-5833",
+      "ndocuments": 5,
+      "population_density": 7.282e-07,
+      "area_density": 0.0003624121
+    },
+    {
+      "index": "232",
+      "name": "Mahanuvara",
+      "population": 137645.0,
+      "sqkm": 1981.87455337,
+      "sourceid": "LKA-2448",
+      "ndocuments": 1,
+      "population_density": 7.2651e-06,
+      "area_density": 0.0005045728
+    },
+    {
+      "index": "233",
+      "name": "Maine",
+      "population": 1117586.0,
+      "sqkm": 170509.182117,
+      "sourceid": "USA-3561",
+      "ndocuments": 5,
+      "population_density": 4.4739e-06,
+      "area_density": 2.93239e-05
+    },
+    {
+      "index": "234",
+      "name": "Manawatu-Wanganui",
+      "population": 154915.0,
+      "sqkm": 37780.7416207,
+      "sourceid": "NZL-3334",
+      "ndocuments": 5,
+      "population_density": 3.22758e-05,
+      "area_density": 0.0001323426
+    },
+    {
+      "index": "235",
+      "name": "Manchester",
+      "population": 524510.0,
+      "sqkm": 342.836599795,
+      "sourceid": "GBR-5684",
+      "ndocuments": 10,
+      "population_density": 1.90654e-05,
+      "area_density": 0.0291684144
+    },
+    {
+      "index": "236",
+      "name": "Maribor",
+      "population": 111231.0,
+      "sqkm": 326.873151985,
+      "sourceid": "SVN-256",
+      "ndocuments": 4,
+      "population_density": 3.59612e-05,
+      "area_density": 0.0122371629
+    },
+    {
+      "index": "237",
+      "name": "Maryland",
+      "population": 5277367.0,
+      "sqkm": 42122.2303271,
+      "sourceid": "USA-3557",
+      "ndocuments": 40,
+      "population_density": 7.5795e-06,
+      "area_density": 0.0009496173
+    },
+    {
+      "index": "238",
+      "name": "Masovian",
+      "population": 5351202.0,
+      "sqkm": 93233.5632493,
+      "sourceid": "POL-3148",
+      "ndocuments": 2,
+      "population_density": 3.737e-07,
+      "area_density": 2.14515e-05
+    },
+    {
+      "index": "239",
+      "name": "Massachusetts",
+      "population": 6526435.0,
+      "sqkm": 38516.0000708,
+      "sourceid": "USA-3513",
+      "ndocuments": 94,
+      "population_density": 1.4403e-05,
+      "area_density": 0.0024405442
+    },
+    {
+      "index": "240",
+      "name": "Mato Grosso",
+      "population": 1423312.0,
+      "sqkm": 952421.953493,
+      "sourceid": "BRA-602",
+      "ndocuments": 1,
+      "population_density": 7.026e-07,
+      "area_density": 1.05e-06
+    },
+    {
+      "index": "241",
+      "name": "Mecklenburg-Vorpommern",
+      "population": 1665251.0,
+      "sqkm": 66095.8045076,
+      "sourceid": "DEU-3488",
+      "ndocuments": 2,
+      "population_density": 1.201e-06,
+      "area_density": 3.02591e-05
+    },
+    {
+      "index": "242",
+      "name": "Mekn\u00e8s - Tafilalet",
+      "population": 958532.0,
+      "sqkm": 81970.6111097,
+      "sourceid": "MAR-1452",
+      "ndocuments": 2,
+      "population_density": 2.0865e-06,
+      "area_density": 2.4399e-05
+    },
+    {
+      "index": "243",
+      "name": "Melaka",
+      "population": 512709.0,
+      "sqkm": 1688.13730743,
+      "sourceid": "MYS-1145",
+      "ndocuments": 2,
+      "population_density": 3.9008e-06,
+      "area_density": 0.0011847378
+    },
+    {
+      "index": "244",
+      "name": "Messina",
+      "population": 625244.0,
+      "sqkm": 5298.98370876,
+      "sourceid": "ITA-5411",
+      "ndocuments": 2,
+      "population_density": 3.1988e-06,
+      "area_density": 0.0003774309
+    },
+    {
+      "index": "245",
+      "name": "Meurthe-et-Moselle",
+      "population": 693378.0,
+      "sqkm": 11991.8042762,
+      "sourceid": "FRA-5325",
+      "ndocuments": 1,
+      "population_density": 1.4422e-06,
+      "area_density": 8.33903e-05
+    },
+    {
+      "index": "246",
+      "name": "Michigan",
+      "population": 5994623.0,
+      "sqkm": 497303.228001,
+      "sourceid": "USA-3562",
+      "ndocuments": 40,
+      "population_density": 6.6726e-06,
+      "area_density": 8.04338e-05
+    },
+    {
+      "index": "247",
+      "name": "Middlesbrough",
+      "population": 142707.0,
+      "sqkm": 141.900044564,
+      "sourceid": "GBR-2031",
+      "ndocuments": 1,
+      "population_density": 7.0074e-06,
+      "area_density": 0.0070472141
+    },
+    {
+      "index": "248",
+      "name": "Midlothian",
+      "population": 78560.0,
+      "sqkm": 1087.8009373,
+      "sourceid": "GBR-2024",
+      "ndocuments": 1,
+      "population_density": 1.27291e-05,
+      "area_density": 0.0009192858
+    },
+    {
+      "index": "249",
+      "name": "Midtjylland",
+      "population": 835055.0,
+      "sqkm": 42535.9481906,
+      "sourceid": "DNK-3416",
+      "ndocuments": 1,
+      "population_density": 1.1975e-06,
+      "area_density": 2.35095e-05
+    },
+    {
+      "index": "250",
+      "name": "Milano",
+      "population": 2992876.0,
+      "sqkm": 3135.65603262,
+      "sourceid": "ITA-5450",
+      "ndocuments": 2,
+      "population_density": 6.683e-07,
+      "area_density": 0.0006378251
+    },
+    {
+      "index": "251",
+      "name": "Milton Keynes",
+      "population": 325470.0,
+      "sqkm": 890.433052677,
+      "sourceid": "GBR-2038",
+      "ndocuments": 4,
+      "population_density": 1.22899e-05,
+      "area_density": 0.0044921962
+    },
+    {
+      "index": "252",
+      "name": "Minnesota",
+      "population": 4638682.0,
+      "sqkm": 470762.998372,
+      "sourceid": "USA-3514",
+      "ndocuments": 25,
+      "population_density": 5.3895e-06,
+      "area_density": 5.31053e-05
+    },
+    {
+      "index": "253",
+      "name": "Mississippi",
+      "population": 1730435.0,
+      "sqkm": 174849.07443,
+      "sourceid": "USA-3544",
+      "ndocuments": 7,
+      "population_density": 4.0452e-06,
+      "area_density": 4.00345e-05
+    },
+    {
+      "index": "254",
+      "name": "Missouri",
+      "population": 4081405.0,
+      "sqkm": 293066.760326,
+      "sourceid": "USA-3531",
+      "ndocuments": 31,
+      "population_density": 7.5954e-06,
+      "area_density": 0.0001057779
+    },
+    {
+      "index": "255",
+      "name": "Miyagi",
+      "population": 1671722.0,
+      "sqkm": 12197.4410471,
+      "sourceid": "JPN-1866",
+      "ndocuments": 3,
+      "population_density": 1.7946e-06,
+      "area_density": 0.0002459532
+    },
+    {
+      "index": "256",
+      "name": "Montana",
+      "population": 748062.0,
+      "sqkm": 814696.84755,
+      "sourceid": "USA-3515",
+      "ndocuments": 6,
+      "population_density": 8.0207e-06,
+      "area_density": 7.3647e-06
+    },
+    {
+      "index": "257",
+      "name": "Murcia",
+      "population": 1488415.0,
+      "sqkm": 18169.7525922,
+      "sourceid": "ESP-5836",
+      "ndocuments": 1,
+      "population_density": 6.719e-07,
+      "area_density": 5.50365e-05
+    },
+    {
+      "index": "258",
+      "name": "Mures",
+      "population": 701184.0,
+      "sqkm": 13806.3370781,
+      "sourceid": "ROU-299",
+      "ndocuments": 1,
+      "population_density": 1.4262e-06,
+      "area_density": 7.24305e-05
+    },
+    {
+      "index": "259",
+      "name": "M\u00e1laga",
+      "population": 1624311.0,
+      "sqkm": 11437.5705063,
+      "sourceid": "ESP-5834",
+      "ndocuments": 1,
+      "population_density": 6.156e-07,
+      "area_density": 8.74312e-05
+    },
+    {
+      "index": "260",
+      "name": "M\u00e9xico",
+      "population": 15289860.0,
+      "sqkm": 24505.3865564,
+      "sourceid": "MEX-2731",
+      "ndocuments": 4,
+      "population_density": 2.616e-07,
+      "area_density": 0.0001632294
+    },
+    {
+      "index": "261",
+      "name": "Nairobi",
+      "population": 2750547.0,
+      "sqkm": 762.832315924,
+      "sourceid": "KEN-1196",
+      "ndocuments": 3,
+      "population_density": 1.0907e-06,
+      "area_density": 0.0039327123
+    },
+    {
+      "index": "262",
+      "name": "Nakhon Pathom",
+      "population": 172956.0,
+      "sqkm": 2232.39212578,
+      "sourceid": "THA-418",
+      "ndocuments": 2,
+      "population_density": 1.15636e-05,
+      "area_density": 0.0008959
+    },
+    {
+      "index": "263",
+      "name": "Napoli",
+      "population": 3008977.0,
+      "sqkm": 2001.20199753,
+      "sourceid": "ITA-5397",
+      "ndocuments": 2,
+      "population_density": 6.647e-07,
+      "area_density": 0.0009993994
+    },
+    {
+      "index": "264",
+      "name": "Nara",
+      "population": 898094.0,
+      "sqkm": 5630.40448386,
+      "sourceid": "JPN-1851",
+      "ndocuments": 8,
+      "population_density": 8.9078e-06,
+      "area_density": 0.0014208571
+    },
+    {
+      "index": "265",
+      "name": "Nebraska",
+      "population": 1507619.0,
+      "sqkm": 357680.349836,
+      "sourceid": "USA-3532",
+      "ndocuments": 4,
+      "population_density": 2.6532e-06,
+      "area_density": 1.11832e-05
+    },
+    {
+      "index": "266",
+      "name": "Neuch\u00e2tel",
+      "population": 144624.0,
+      "sqkm": 1812.00873254,
+      "sourceid": "CHE-161",
+      "ndocuments": 1,
+      "population_density": 6.9145e-06,
+      "area_density": 0.0005518737
+    },
+    {
+      "index": "267",
+      "name": "Nevada",
+      "population": 2647700.0,
+      "sqkm": 479531.142367,
+      "sourceid": "USA-3523",
+      "ndocuments": 3,
+      "population_density": 1.1331e-06,
+      "area_density": 6.2561e-06
+    },
+    {
+      "index": "268",
+      "name": "New Hampshire",
+      "population": 1205980.0,
+      "sqkm": 46274.300524,
+      "sourceid": "USA-3538",
+      "ndocuments": 4,
+      "population_density": 3.3168e-06,
+      "area_density": 8.64411e-05
+    },
+    {
+      "index": "269",
+      "name": "New Jersey",
+      "population": 7358593.0,
+      "sqkm": 33618.0515351,
+      "sourceid": "USA-3558",
+      "ndocuments": 32,
+      "population_density": 4.3487e-06,
+      "area_density": 0.0009518696
+    },
+    {
+      "index": "270",
+      "name": "New Mexico",
+      "population": 1829047.0,
+      "sqkm": 462510.86739,
+      "sourceid": "USA-3524",
+      "ndocuments": 1,
+      "population_density": 5.467e-07,
+      "area_density": 2.1621e-06
+    },
+    {
+      "index": "271",
+      "name": "New Providence",
+      "population": 227940.0,
+      "sqkm": 234.995848197,
+      "sourceid": "BHS-5009",
+      "ndocuments": 1,
+      "population_density": 4.3871e-06,
+      "area_density": 0.0042553943
+    },
+    {
+      "index": "272",
+      "name": "New South Wales",
+      "population": 7200627.0,
+      "sqkm": 1119135.75556,
+      "sourceid": "AUS-2654",
+      "ndocuments": 68,
+      "population_density": 9.4436e-06,
+      "area_density": 6.07612e-05
+    },
+    {
+      "index": "273",
+      "name": "New Taipei City",
+      "population": 543342.0,
+      "sqkm": 2355.01573177,
+      "sourceid": "TWN-1167",
+      "ndocuments": 9,
+      "population_density": 1.65642e-05,
+      "area_density": 0.0038216305
+    },
+    {
+      "index": "274",
+      "name": "New York",
+      "population": 28765065.0,
+      "sqkm": 255258.744379,
+      "sourceid": "USA-3559",
+      "ndocuments": 80,
+      "population_density": 2.7812e-06,
+      "area_density": 0.0003134075
+    },
+    {
+      "index": "275",
+      "name": "Newcastle upon Tyne",
+      "population": 280440.0,
+      "sqkm": 296.319764704,
+      "sourceid": "GBR-5661",
+      "ndocuments": 8,
+      "population_density": 2.85266e-05,
+      "area_density": 0.0269978616
+    },
+    {
+      "index": "276",
+      "name": "Newfoundland and Labrador",
+      "population": 268151.0,
+      "sqkm": 1110291.15791,
+      "sourceid": "CAN-686",
+      "ndocuments": 2,
+      "population_density": 7.4585e-06,
+      "area_density": 1.8013e-06
+    },
+    {
+      "index": "277",
+      "name": "Nicosia",
+      "population": 72612.0,
+      "sqkm": 3033.25174098,
+      "sourceid": "CYP-3464",
+      "ndocuments": 1,
+      "population_density": 1.37718e-05,
+      "area_density": 0.0003296792
+    },
+    {
+      "index": "278",
+      "name": "Niedersachsen",
+      "population": 7583218.0,
+      "sqkm": 129471.019825,
+      "sourceid": "DEU-1576",
+      "ndocuments": 10,
+      "population_density": 1.3187e-06,
+      "area_density": 7.72374e-05
+    },
+    {
+      "index": "279",
+      "name": "Niigata",
+      "population": 1806345.0,
+      "sqkm": 19745.3167768,
+      "sourceid": "JPN-1867",
+      "ndocuments": 2,
+      "population_density": 1.1072e-06,
+      "area_density": 0.0001012898
+    },
+    {
+      "index": "280",
+      "name": "Noord-Brabant",
+      "population": 2377582.0,
+      "sqkm": 13401.3897636,
+      "sourceid": "NLD-3483",
+      "ndocuments": 6,
+      "population_density": 2.5236e-06,
+      "area_density": 0.0004477148
+    },
+    {
+      "index": "281",
+      "name": "Noord-Holland",
+      "population": 2617611.0,
+      "sqkm": 9410.92345777,
+      "sourceid": "NLD-3486",
+      "ndocuments": 28,
+      "population_density": 1.06968e-05,
+      "area_density": 0.0029752659
+    },
+    {
+      "index": "282",
+      "name": "Nord",
+      "population": 2534277.0,
+      "sqkm": 13671.8298792,
+      "sourceid": "FRA-5330",
+      "ndocuments": 1,
+      "population_density": 3.946e-07,
+      "area_density": 7.31431e-05
+    },
+    {
+      "index": "283",
+      "name": "Nordjylland",
+      "population": 380428.0,
+      "sqkm": 26651.9718349,
+      "sourceid": "DNK-3418",
+      "ndocuments": 8,
+      "population_density": 2.10289e-05,
+      "area_density": 0.0003001654
+    },
+    {
+      "index": "284",
+      "name": "Nordrhein-Westfalen",
+      "population": 18060975.0,
+      "sqkm": 88672.9334052,
+      "sourceid": "DEU-1572",
+      "ndocuments": 23,
+      "population_density": 1.2735e-06,
+      "area_density": 0.0002593802
+    },
+    {
+      "index": "285",
+      "name": "Norfolk",
+      "population": 750034.0,
+      "sqkm": 14656.7166684,
+      "sourceid": "GBR-2319",
+      "ndocuments": 2,
+      "population_density": 2.6665e-06,
+      "area_density": 0.0001364562
+    },
+    {
+      "index": "286",
+      "name": "North Carolina",
+      "population": 6105119.0,
+      "sqkm": 192435.788633,
+      "sourceid": "USA-3549",
+      "ndocuments": 52,
+      "population_density": 8.5174e-06,
+      "area_density": 0.00027022
+    },
+    {
+      "index": "287",
+      "name": "North Dakota",
+      "population": 612666.0,
+      "sqkm": 398284.888251,
+      "sourceid": "USA-3516",
+      "ndocuments": 2,
+      "population_density": 3.2644e-06,
+      "area_density": 5.0215e-06
+    },
+    {
+      "index": "288",
+      "name": "North Gyeongsang",
+      "population": 1931304.0,
+      "sqkm": 28586.1553285,
+      "sourceid": "KOR-2509",
+      "ndocuments": 3,
+      "population_density": 1.5534e-06,
+      "area_density": 0.0001049459
+    },
+    {
+      "index": "289",
+      "name": "North Jeolla",
+      "population": 1755680.0,
+      "sqkm": 12476.7486178,
+      "sourceid": "KOR-2499",
+      "ndocuments": 3,
+      "population_density": 1.7087e-06,
+      "area_density": 0.0002404473
+    },
+    {
+      "index": "290",
+      "name": "North West",
+      "population": 1342113.0,
+      "sqkm": 144634.384927,
+      "sourceid": "ZAF-1201",
+      "ndocuments": 3,
+      "population_density": 2.2353e-06,
+      "area_density": 2.0742e-05
+    },
+    {
+      "index": "291",
+      "name": "North Yorkshire",
+      "population": 516224.0,
+      "sqkm": 23215.1737493,
+      "sourceid": "GBR-2140",
+      "ndocuments": 4,
+      "population_density": 7.7486e-06,
+      "area_density": 0.0001723011
+    },
+    {
+      "index": "292",
+      "name": "Northern Cyprus",
+      "population": 315913.0,
+      "sqkm": 4969.50347286,
+      "sourceid": "CYN+00?",
+      "ndocuments": 2,
+      "population_density": 6.3309e-06,
+      "area_density": 0.0004024547
+    },
+    {
+      "index": "293",
+      "name": "Northern Ostrobothnia",
+      "population": 376411.0,
+      "sqkm": 204820.578718,
+      "sourceid": "FIN-3180",
+      "ndocuments": 1,
+      "population_density": 2.6567e-06,
+      "area_density": 4.8823e-06
+    },
+    {
+      "index": "294",
+      "name": "Northern Territory",
+      "population": 203007.0,
+      "sqkm": 1522879.26185,
+      "sourceid": "AUS-2650",
+      "ndocuments": 1,
+      "population_density": 4.9259e-06,
+      "area_density": 6.567e-07
+    },
+    {
+      "index": "295",
+      "name": "Nottingham",
+      "population": 809066.0,
+      "sqkm": 224.634982498,
+      "sourceid": "GBR-2763",
+      "ndocuments": 20,
+      "population_density": 2.47199e-05,
+      "area_density": 0.0890333277
+    },
+    {
+      "index": "296",
+      "name": "Nottinghamshire",
+      "population": 643249.0,
+      "sqkm": 5753.35055171,
+      "sourceid": "GBR-2764",
+      "ndocuments": 3,
+      "population_density": 4.6638e-06,
+      "area_density": 0.0005214353
+    },
+    {
+      "index": "297",
+      "name": "Nova Scotia",
+      "population": 757638.0,
+      "sqkm": 110475.182818,
+      "sourceid": "CAN-685",
+      "ndocuments": 9,
+      "population_density": 1.1879e-05,
+      "area_density": 8.14663e-05
+    },
+    {
+      "index": "298",
+      "name": "Nusa Tenggara Timur",
+      "population": 777165.0,
+      "sqkm": 47682.8092676,
+      "sourceid": "IDN-1235",
+      "ndocuments": 1,
+      "population_density": 1.2867e-06,
+      "area_density": 2.09719e-05
+    },
+    {
+      "index": "299",
+      "name": "Ober\u00f6sterreich",
+      "population": 1368763.0,
+      "sqkm": 26595.2598638,
+      "sourceid": "AUT-2326",
+      "ndocuments": 4,
+      "population_density": 2.9223e-06,
+      "area_density": 0.0001504027
+    },
+    {
+      "index": "300",
+      "name": "Ogun",
+      "population": 1331307.0,
+      "sqkm": 16451.4376606,
+      "sourceid": "NGA-2852",
+      "ndocuments": 1,
+      "population_density": 7.511e-07,
+      "area_density": 6.0785e-05
+    },
+    {
+      "index": "301",
+      "name": "Ohio",
+      "population": 8367367.0,
+      "sqkm": 199713.89188,
+      "sourceid": "USA-3550",
+      "ndocuments": 44,
+      "population_density": 5.2585e-06,
+      "area_density": 0.0002203152
+    },
+    {
+      "index": "302",
+      "name": "Okinawa",
+      "population": 962815.0,
+      "sqkm": 4123.71080973,
+      "sourceid": "JPN-3502",
+      "ndocuments": 1,
+      "population_density": 1.0386e-06,
+      "area_density": 0.0002425
+    },
+    {
+      "index": "303",
+      "name": "Oklahoma",
+      "population": 3079594.0,
+      "sqkm": 272627.175627,
+      "sourceid": "USA-3533",
+      "ndocuments": 13,
+      "population_density": 4.2213e-06,
+      "area_density": 4.76842e-05
+    },
+    {
+      "index": "304",
+      "name": "Ontario",
+      "population": 11642073.0,
+      "sqkm": 2626939.07162,
+      "sourceid": "CAN-682",
+      "ndocuments": 85,
+      "population_density": 7.3011e-06,
+      "area_density": 3.23571e-05
+    },
+    {
+      "index": "305",
+      "name": "Orebro",
+      "population": 250893.0,
+      "sqkm": 37759.6663268,
+      "sourceid": "SWE-183",
+      "ndocuments": 5,
+      "population_density": 1.99288e-05,
+      "area_density": 0.0001324164
+    },
+    {
+      "index": "306",
+      "name": "Oregon",
+      "population": 3233342.0,
+      "sqkm": 484609.921174,
+      "sourceid": "USA-3525",
+      "ndocuments": 9,
+      "population_density": 2.7835e-06,
+      "area_density": 1.85716e-05
+    },
+    {
+      "index": "307",
+      "name": "Oslo",
+      "population": 594151.0,
+      "sqkm": 3110.69921265,
+      "sourceid": "NOR-921",
+      "ndocuments": 9,
+      "population_density": 1.51477e-05,
+      "area_density": 0.0028932402
+    },
+    {
+      "index": "308",
+      "name": "Ostrobothnia",
+      "population": 167900.0,
+      "sqkm": 35431.2230321,
+      "sourceid": "FIN-3182",
+      "ndocuments": 3,
+      "population_density": 1.78678e-05,
+      "area_density": 8.46711e-05
+    },
+    {
+      "index": "309",
+      "name": "Otago",
+      "population": 168111.0,
+      "sqkm": 66284.0437675,
+      "sourceid": "NZL-3407",
+      "ndocuments": 1,
+      "population_density": 5.9485e-06,
+      "area_density": 1.50866e-05
+    },
+    {
+      "index": "310",
+      "name": "Overijssel",
+      "population": 1019279.0,
+      "sqkm": 8965.30044235,
+      "sourceid": "NLD-899",
+      "ndocuments": 3,
+      "population_density": 2.9433e-06,
+      "area_density": 0.0003346235
+    },
+    {
+      "index": "311",
+      "name": "Oxfordshire",
+      "population": 948067.0,
+      "sqkm": 6803.36604875,
+      "sourceid": "GBR-2751",
+      "ndocuments": 12,
+      "population_density": 1.26573e-05,
+      "area_density": 0.0017638328
+    },
+    {
+      "index": "312",
+      "name": "Padova",
+      "population": 837681.0,
+      "sqkm": 4176.98750089,
+      "sourceid": "ITA-5463",
+      "ndocuments": 1,
+      "population_density": 1.1938e-06,
+      "area_density": 0.000239407
+    },
+    {
+      "index": "313",
+      "name": "Panama",
+      "population": 1522893.0,
+      "sqkm": 11976.9586736,
+      "sourceid": "PAN-1340",
+      "ndocuments": 1,
+      "population_density": 6.566e-07,
+      "area_density": 8.34937e-05
+    },
+    {
+      "index": "314",
+      "name": "Paris",
+      "population": 2573814.0,
+      "sqkm": 297.737012523,
+      "sourceid": "FRA-5333",
+      "ndocuments": 18,
+      "population_density": 6.9935e-06,
+      "area_density": 0.0604560375
+    },
+    {
+      "index": "315",
+      "name": "Peloponnisos",
+      "population": 456603.0,
+      "sqkm": 24506.5413385,
+      "sourceid": "GRC-2885",
+      "ndocuments": 1,
+      "population_density": 2.1901e-06,
+      "area_density": 4.08054e-05
+    },
+    {
+      "index": "316",
+      "name": "Pembroke",
+      "population": 3788.0,
+      "sqkm": 7.6289659524,
+      "sourceid": "MLT-5934",
+      "ndocuments": 1,
+      "population_density": 0.0002639916,
+      "area_density": 0.1310793633
+    },
+    {
+      "index": "317",
+      "name": "Pennsylvania",
+      "population": 7496921.0,
+      "sqkm": 208358.225046,
+      "sourceid": "USA-3560",
+      "ndocuments": 108,
+      "population_density": 1.44059e-05,
+      "area_density": 0.0005183381
+    },
+    {
+      "index": "318",
+      "name": "Perak",
+      "population": 1278472.0,
+      "sqkm": 20931.0623889,
+      "sourceid": "MYS-1137",
+      "ndocuments": 2,
+      "population_density": 1.5644e-06,
+      "area_density": 9.55518e-05
+    },
+    {
+      "index": "319",
+      "name": "Pernambuco",
+      "population": 6582738.0,
+      "sqkm": 99715.8678795,
+      "sourceid": "BRA-1313",
+      "ndocuments": 1,
+      "population_density": 1.519e-07,
+      "area_density": 1.00285e-05
+    },
+    {
+      "index": "320",
+      "name": "Pesaro e Urbino",
+      "population": 311535.0,
+      "sqkm": 4930.88756566,
+      "sourceid": "ITA-5428",
+      "ndocuments": 1,
+      "population_density": 3.2099e-06,
+      "area_density": 0.0002028032
+    },
+    {
+      "index": "321",
+      "name": "Pest",
+      "population": 954714.0,
+      "sqkm": 13694.1031105,
+      "sourceid": "HUN-3164",
+      "ndocuments": 1,
+      "population_density": 1.0474e-06,
+      "area_density": 7.30241e-05
+    },
+    {
+      "index": "322",
+      "name": "Pirkanmaa",
+      "population": 471121.0,
+      "sqkm": 66636.8367554,
+      "sourceid": "FIN-3186",
+      "ndocuments": 9,
+      "population_density": 1.91034e-05,
+      "area_density": 0.0001350604
+    },
+    {
+      "index": "323",
+      "name": "Pisa",
+      "population": 400853.0,
+      "sqkm": 4610.2417219,
+      "sourceid": "ITA-5381",
+      "ndocuments": 1,
+      "population_density": 2.4947e-06,
+      "area_density": 0.0002169084
+    },
+    {
+      "index": "324",
+      "name": "Plymouth",
+      "population": 269095.0,
+      "sqkm": 151.41380576,
+      "sourceid": "GBR-2141",
+      "ndocuments": 2,
+      "population_density": 7.4323e-06,
+      "area_density": 0.0132088352
+    },
+    {
+      "index": "325",
+      "name": "Pomeranian",
+      "population": 1730701.0,
+      "sqkm": 54100.8368318,
+      "sourceid": "POL-3140",
+      "ndocuments": 1,
+      "population_density": 5.778e-07,
+      "area_density": 1.8484e-05
+    },
+    {
+      "index": "326",
+      "name": "Porto",
+      "population": 1546219.0,
+      "sqkm": 4072.87545618,
+      "sourceid": "PRT-754",
+      "ndocuments": 1,
+      "population_density": 6.467e-07,
+      "area_density": 0.0002455268
+    },
+    {
+      "index": "327",
+      "name": "Portsmouth",
+      "population": 237187.0,
+      "sqkm": 118.152375168,
+      "sourceid": "GBR-2759",
+      "ndocuments": 1,
+      "population_density": 4.2161e-06,
+      "area_density": 0.008463647
+    },
+    {
+      "index": "328",
+      "name": "Prince Edward Island",
+      "population": 67181.0,
+      "sqkm": 12012.9621291,
+      "sourceid": "CAN-687",
+      "ndocuments": 1,
+      "population_density": 1.48852e-05,
+      "area_density": 8.32434e-05
+    },
+    {
+      "index": "329",
+      "name": "Puebla",
+      "population": 5676560.0,
+      "sqkm": 38677.0412567,
+      "sourceid": "MEX-2724",
+      "ndocuments": 1,
+      "population_density": 1.762e-07,
+      "area_density": 2.58551e-05
+    },
+    {
+      "index": "330",
+      "name": "Pulau Pinang",
+      "population": 1116586.0,
+      "sqkm": 1027.20159326,
+      "sourceid": "MYS-1139",
+      "ndocuments": 3,
+      "population_density": 2.6868e-06,
+      "area_density": 0.0029205562
+    },
+    {
+      "index": "331",
+      "name": "Punjab",
+      "population": 26912480.0,
+      "sqkm": 276188.573381,
+      "sourceid": "PAK-1113",
+      "ndocuments": 1,
+      "population_density": 3.72e-08,
+      "area_density": 3.6207e-06
+    },
+    {
+      "index": "332",
+      "name": "Queensland",
+      "population": 4446207.0,
+      "sqkm": 2038975.22022,
+      "sourceid": "AUS-2657",
+      "ndocuments": 35,
+      "population_density": 7.8719e-06,
+      "area_density": 1.71655e-05
+    },
+    {
+      "index": "333",
+      "name": "Qu\u00e9bec",
+      "population": 6308967.0,
+      "sqkm": 4286719.08766,
+      "sourceid": "CAN-683",
+      "ndocuments": 30,
+      "population_density": 4.7551e-06,
+      "area_density": 6.9984e-06
+    },
+    {
+      "index": "334",
+      "name": "Rajasthan",
+      "population": 14176929.0,
+      "sqkm": 428824.800189,
+      "sourceid": "IND-3250",
+      "ndocuments": 1,
+      "population_density": 7.05e-08,
+      "area_density": 2.332e-06
+    },
+    {
+      "index": "335",
+      "name": "Reggio Emilia",
+      "population": 474653.0,
+      "sqkm": 4547.62114753,
+      "sourceid": "ITA-5359",
+      "ndocuments": 1,
+      "population_density": 2.1068e-06,
+      "area_density": 0.0002198952
+    },
+    {
+      "index": "336",
+      "name": "Reykjav\u00edk",
+      "population": 204231.0,
+      "sqkm": 1855.14219098,
+      "sourceid": "ISL-5131",
+      "ndocuments": 1,
+      "population_density": 4.8964e-06,
+      "area_density": 0.0005390422
+    },
+    {
+      "index": "337",
+      "name": "Rheinland-Pfalz",
+      "population": 4009316.0,
+      "sqkm": 48267.6744032,
+      "sourceid": "DEU-1580",
+      "ndocuments": 3,
+      "population_density": 7.483e-07,
+      "area_density": 6.21534e-05
+    },
+    {
+      "index": "338",
+      "name": "Rhode Island",
+      "population": 1093240.0,
+      "sqkm": 5056.27108092,
+      "sourceid": "USA-3539",
+      "ndocuments": 8,
+      "population_density": 7.3177e-06,
+      "area_density": 0.0015821937
+    },
+    {
+      "index": "339",
+      "name": "Richmond upon Thames",
+      "population": 54640.0,
+      "sqkm": 149.778908789,
+      "sourceid": "GBR-2075",
+      "ndocuments": 6,
+      "population_density": 0.0001098097,
+      "area_density": 0.0400590447
+    },
+    {
+      "index": "340",
+      "name": "Rio Grande do Sul",
+      "population": 7789692.0,
+      "sqkm": 360799.711133,
+      "sourceid": "BRA-612",
+      "ndocuments": 1,
+      "population_density": 1.284e-07,
+      "area_density": 2.7716e-06
+    },
+    {
+      "index": "341",
+      "name": "Rio de Janeiro",
+      "population": 13322008.0,
+      "sqkm": 51250.9542525,
+      "sourceid": "BRA-627",
+      "ndocuments": 3,
+      "population_density": 2.252e-07,
+      "area_density": 5.85355e-05
+    },
+    {
+      "index": "342",
+      "name": "Roma",
+      "population": 3945806.0,
+      "sqkm": 9644.83906192,
+      "sourceid": "ITA-5422",
+      "ndocuments": 6,
+      "population_density": 1.5206e-06,
+      "area_density": 0.0006220944
+    },
+    {
+      "index": "343",
+      "name": "Saarland",
+      "population": 1068284.0,
+      "sqkm": 6237.08498833,
+      "sourceid": "DEU-1581",
+      "ndocuments": 1,
+      "population_density": 9.361e-07,
+      "area_density": 0.0001603313
+    },
+    {
+      "index": "344",
+      "name": "Sabah",
+      "population": 1677875.0,
+      "sqkm": 74493.9204542,
+      "sourceid": "MYS-1186",
+      "ndocuments": 1,
+      "population_density": 5.96e-07,
+      "area_density": 1.34239e-05
+    },
+    {
+      "index": "345",
+      "name": "Sachsen",
+      "population": 4005906.0,
+      "sqkm": 45776.8991282,
+      "sourceid": "DEU-1601",
+      "ndocuments": 6,
+      "population_density": 1.4978e-06,
+      "area_density": 0.0001310705
+    },
+    {
+      "index": "346",
+      "name": "Sai Kung",
+      "population": 11927.0,
+      "sqkm": 130.201793564,
+      "sourceid": "HKG-5162",
+      "ndocuments": 1,
+      "population_density": 8.38434e-05,
+      "area_density": 0.0076803858
+    },
+    {
+      "index": "347",
+      "name": "Sakarya",
+      "population": 533143.0,
+      "sqkm": 7391.18873085,
+      "sourceid": "TUR-2267",
+      "ndocuments": 1,
+      "population_density": 1.8757e-06,
+      "area_density": 0.0001352962
+    },
+    {
+      "index": "348",
+      "name": "Salamanca",
+      "population": 346536.0,
+      "sqkm": 21892.6604841,
+      "sourceid": "ESP-5841",
+      "ndocuments": 1,
+      "population_density": 2.8857e-06,
+      "area_density": 4.56774e-05
+    },
+    {
+      "index": "349",
+      "name": "Salford",
+      "population": 192138.0,
+      "sqkm": 362.175249881,
+      "sourceid": "GBR-5676",
+      "ndocuments": 1,
+      "population_density": 5.2046e-06,
+      "area_density": 0.0027610943
+    },
+    {
+      "index": "350",
+      "name": "Sankt Gallen",
+      "population": 433088.0,
+      "sqkm": 4392.6386418,
+      "sourceid": "CHE-167",
+      "ndocuments": 3,
+      "population_density": 6.927e-06,
+      "area_density": 0.0006829608
+    },
+    {
+      "index": "351",
+      "name": "Santa Cruz de Tenerife",
+      "population": 1062030.0,
+      "sqkm": 4362.25394839,
+      "sourceid": "ESP-5842",
+      "ndocuments": 4,
+      "population_density": 3.7664e-06,
+      "area_density": 0.0009169572
+    },
+    {
+      "index": "352",
+      "name": "Santar\u00e9m",
+      "population": 357356.0,
+      "sqkm": 11230.3595853,
+      "sourceid": "PRT-748",
+      "ndocuments": 1,
+      "population_density": 2.7983e-06,
+      "area_density": 8.90443e-05
+    },
+    {
+      "index": "353",
+      "name": "Saskatchewan",
+      "population": 612600.0,
+      "sqkm": 1931894.06499,
+      "sourceid": "CAN-631",
+      "ndocuments": 3,
+      "population_density": 4.8972e-06,
+      "area_density": 1.5529e-06
+    },
+    {
+      "index": "354",
+      "name": "Satakunta",
+      "population": 229232.0,
+      "sqkm": 36800.5299024,
+      "sourceid": "FIN-3192",
+      "ndocuments": 1,
+      "population_density": 4.3624e-06,
+      "area_density": 2.71735e-05
+    },
+    {
+      "index": "355",
+      "name": "Schleswig-Holstein",
+      "population": 2730769.0,
+      "sqkm": 44879.5076645,
+      "sourceid": "DEU-1579",
+      "ndocuments": 3,
+      "population_density": 1.0986e-06,
+      "area_density": 6.68457e-05
+    },
+    {
+      "index": "356",
+      "name": "Seien-et-Marne",
+      "population": 1309665.0,
+      "sqkm": 13445.4366626,
+      "sourceid": "FRA-5342",
+      "ndocuments": 1,
+      "population_density": 7.636e-07,
+      "area_density": 7.43747e-05
+    },
+    {
+      "index": "357",
+      "name": "Selangor",
+      "population": 4400342.0,
+      "sqkm": 7755.05153741,
+      "sourceid": "MYS-1148",
+      "ndocuments": 18,
+      "population_density": 4.0906e-06,
+      "area_density": 0.0023210677
+    },
+    {
+      "index": "358",
+      "name": "Semnan",
+      "population": 394959.0,
+      "sqkm": 136162.259646,
+      "sourceid": "IRN-3215",
+      "ndocuments": 1,
+      "population_density": 2.5319e-06,
+      "area_density": 7.3442e-06
+    },
+    {
+      "index": "359",
+      "name": "Seoul",
+      "population": 10720469.0,
+      "sqkm": 916.649162927,
+      "sourceid": "KOR-2497",
+      "ndocuments": 30,
+      "population_density": 2.7984e-06,
+      "area_density": 0.0327278977
+    },
+    {
+      "index": "360",
+      "name": "Severno-Banatski",
+      "population": 138012.0,
+      "sqkm": 4637.81248884,
+      "sourceid": "SRB-275",
+      "ndocuments": 1,
+      "population_density": 7.2457e-06,
+      "area_density": 0.0002156189
+    },
+    {
+      "index": "361",
+      "name": "Sevilla",
+      "population": 1846482.0,
+      "sqkm": 22161.8192999,
+      "sourceid": "ESP-5844",
+      "ndocuments": 2,
+      "population_density": 1.0831e-06,
+      "area_density": 9.02453e-05
+    },
+    {
+      "index": "362",
+      "name": "Sha Tin",
+      "population": 21559.0,
+      "sqkm": 74.58515356,
+      "sourceid": "HKG-5163",
+      "ndocuments": 7,
+      "population_density": 0.0003246904,
+      "area_density": 0.0938524581
+    },
+    {
+      "index": "363",
+      "name": "Shaanxi",
+      "population": 8884036.0,
+      "sqkm": 307834.571595,
+      "sourceid": "CHN-1804",
+      "ndocuments": 1,
+      "population_density": 1.126e-07,
+      "area_density": 3.2485e-06
+    },
+    {
+      "index": "364",
+      "name": "Shandong",
+      "population": 27295041.0,
+      "sqkm": 239901.664623,
+      "sourceid": "CHN-1814",
+      "ndocuments": 3,
+      "population_density": 1.099e-07,
+      "area_density": 1.25051e-05
+    },
+    {
+      "index": "365",
+      "name": "Shanghai",
+      "population": 22505692.0,
+      "sqkm": 9201.60285262,
+      "sourceid": "CHN-1819",
+      "ndocuments": 19,
+      "population_density": 8.442e-07,
+      "area_density": 0.0020648576
+    },
+    {
+      "index": "366",
+      "name": "Shefa",
+      "population": 35901.0,
+      "sqkm": 1605.59583643,
+      "sourceid": "VUT-565",
+      "ndocuments": 1,
+      "population_density": 2.78544e-05,
+      "area_density": 0.0006228217
+    },
+    {
+      "index": "367",
+      "name": "Sheffield",
+      "population": 754666.0,
+      "sqkm": 1062.82252665,
+      "sourceid": "GBR-5687",
+      "ndocuments": 10,
+      "population_density": 1.32509e-05,
+      "area_density": 0.0094089086
+    },
+    {
+      "index": "368",
+      "name": "Shizuoka",
+      "population": 2952418.0,
+      "sqkm": 11405.9446237,
+      "sourceid": "JPN-1845",
+      "ndocuments": 10,
+      "population_density": 3.3871e-06,
+      "area_density": 0.0008767358
+    },
+    {
+      "index": "369",
+      "name": "Sichuan",
+      "population": 18713029.0,
+      "sqkm": 654272.967566,
+      "sourceid": "CHN-1809",
+      "ndocuments": 8,
+      "population_density": 4.275e-07,
+      "area_density": 1.22273e-05
+    },
+    {
+      "index": "370",
+      "name": "Sk\u00e5ne",
+      "population": 1204838.0,
+      "sqkm": 36483.1464984,
+      "sourceid": "SWE-3429",
+      "ndocuments": 6,
+      "population_density": 4.9799e-06,
+      "area_density": 0.0001644595
+    },
+    {
+      "index": "371",
+      "name": "Somme",
+      "population": 578784.0,
+      "sqkm": 15009.8061243,
+      "sourceid": "FRA-5345",
+      "ndocuments": 1,
+      "population_density": 1.7278e-06,
+      "area_density": 6.66231e-05
+    },
+    {
+      "index": "372",
+      "name": "South Australia",
+      "population": 1810355.0,
+      "sqkm": 1316337.57155,
+      "sourceid": "AUS-2655",
+      "ndocuments": 14,
+      "population_density": 7.7333e-06,
+      "area_density": 1.06356e-05
+    },
+    {
+      "index": "373",
+      "name": "South Carolina",
+      "population": 2324452.0,
+      "sqkm": 116194.011321,
+      "sourceid": "USA-3545",
+      "ndocuments": 8,
+      "population_density": 3.4417e-06,
+      "area_density": 6.88504e-05
+    },
+    {
+      "index": "374",
+      "name": "South Dakota",
+      "population": 630652.0,
+      "sqkm": 389849.549513,
+      "sourceid": "USA-3534",
+      "ndocuments": 1,
+      "population_density": 1.5857e-06,
+      "area_density": 2.5651e-06
+    },
+    {
+      "index": "375",
+      "name": "South East",
+      "population": 0.0,
+      "sqkm": 78.5919766961,
+      "sourceid": "SGP-4875",
+      "ndocuments": 1,
+      "population_density": null,
+      "area_density": 0.0127239451
+    },
+    {
+      "index": "376",
+      "name": "South Gyeongsang",
+      "population": 1718630.0,
+      "sqkm": 15178.2375223,
+      "sourceid": "KOR-2505",
+      "ndocuments": 1,
+      "population_density": 5.819e-07,
+      "area_density": 6.58838e-05
+    },
+    {
+      "index": "377",
+      "name": "South West",
+      "population": 0.0,
+      "sqkm": 200.334133379,
+      "sourceid": "SGP-4872",
+      "ndocuments": 9,
+      "population_density": null,
+      "area_density": 0.0449249454
+    },
+    {
+      "index": "378",
+      "name": "Southampton",
+      "population": 267599.0,
+      "sqkm": 143.244130982,
+      "sourceid": "GBR-2036",
+      "ndocuments": 3,
+      "population_density": 1.12108e-05,
+      "area_density": 0.0209432664
+    },
+    {
+      "index": "379",
+      "name": "Southwark",
+      "population": 0.0,
+      "sqkm": 79.3783909434,
+      "sourceid": "GBR-2771",
+      "ndocuments": 1,
+      "population_density": null,
+      "area_density": 0.012597887
+    },
+    {
+      "index": "380",
+      "name": "Splitsko-Dalmatinska",
+      "population": 407822.0,
+      "sqkm": 7957.18272987,
+      "sourceid": "HRV-1492",
+      "ndocuments": 1,
+      "population_density": 2.4521e-06,
+      "area_density": 0.0001256726
+    },
+    {
+      "index": "381",
+      "name": "Steiermark",
+      "population": 1319654.0,
+      "sqkm": 35583.6679182,
+      "sourceid": "AUT-2323",
+      "ndocuments": 5,
+      "population_density": 3.7889e-06,
+      "area_density": 0.0001405139
+    },
+    {
+      "index": "382",
+      "name": "Stirling",
+      "population": 84850.0,
+      "sqkm": 7376.82269188,
+      "sourceid": "GBR-2016",
+      "ndocuments": 4,
+      "population_density": 4.7142e-05,
+      "area_density": 0.0005422389
+    },
+    {
+      "index": "383",
+      "name": "Stockholm",
+      "population": 2650482.0,
+      "sqkm": 24383.0649778,
+      "sourceid": "SWE-194",
+      "ndocuments": 12,
+      "population_density": 4.5275e-06,
+      "area_density": 0.0004921449
+    },
+    {
+      "index": "384",
+      "name": "Stockton-on-Tees",
+      "population": 166640.0,
+      "sqkm": 432.496581655,
+      "sourceid": "GBR-2033",
+      "ndocuments": 1,
+      "population_density": 6.001e-06,
+      "area_density": 0.002312157
+    },
+    {
+      "index": "385",
+      "name": "Stoke-on-Trent",
+      "population": 421281.0,
+      "sqkm": 286.099587768,
+      "sourceid": "GBR-2778",
+      "ndocuments": 1,
+      "population_density": 2.3737e-06,
+      "area_density": 0.0034952864
+    },
+    {
+      "index": "386",
+      "name": "Suffolk",
+      "population": 616560.0,
+      "sqkm": 9988.18079755,
+      "sourceid": "GBR-2318",
+      "ndocuments": 1,
+      "population_density": 1.6219e-06,
+      "area_density": 0.0001001183
+    },
+    {
+      "index": "387",
+      "name": "Surrey",
+      "population": 1171093.0,
+      "sqkm": 4277.27036351,
+      "sourceid": "GBR-2755",
+      "ndocuments": 6,
+      "population_density": 5.1234e-06,
+      "area_density": 0.0014027638
+    },
+    {
+      "index": "388",
+      "name": "Swansea",
+      "population": 355017.0,
+      "sqkm": 949.437863277,
+      "sourceid": "GBR-2119",
+      "ndocuments": 1,
+      "population_density": 2.8168e-06,
+      "area_density": 0.0010532548
+    },
+    {
+      "index": "389",
+      "name": "S\u00e3o Paulo",
+      "population": 35992035.0,
+      "sqkm": 290182.396983,
+      "sourceid": "BRA-1311",
+      "ndocuments": 1,
+      "population_density": 2.78e-08,
+      "area_density": 3.4461e-06
+    },
+    {
+      "index": "390",
+      "name": "S\u00f6dermanland",
+      "population": 234556.0,
+      "sqkm": 26367.7398773,
+      "sourceid": "SWE-185",
+      "ndocuments": 4,
+      "population_density": 1.70535e-05,
+      "area_density": 0.0001517005
+    },
+    {
+      "index": "391",
+      "name": "S\u00f8r-Tr\u00f8ndelag",
+      "population": 189840.0,
+      "sqkm": 91647.7906314,
+      "sourceid": "NOR-911",
+      "ndocuments": 3,
+      "population_density": 1.58028e-05,
+      "area_density": 3.2734e-05
+    },
+    {
+      "index": "392",
+      "name": "Taichung City",
+      "population": 1040725.0,
+      "sqkm": 2671.91269504,
+      "sourceid": "TWN-1174",
+      "ndocuments": 8,
+      "population_density": 7.6869e-06,
+      "area_density": 0.0029941098
+    },
+    {
+      "index": "393",
+      "name": "Tainan City",
+      "population": 787832.0,
+      "sqkm": 2601.45715679,
+      "sourceid": "TWN-1160",
+      "ndocuments": 7,
+      "population_density": 8.8851e-06,
+      "area_density": 0.0026907996
+    },
+    {
+      "index": "394",
+      "name": "Taipei City",
+      "population": 7871900.0,
+      "sqkm": 350.684071317,
+      "sourceid": "TWN-1166",
+      "ndocuments": 37,
+      "population_density": 4.7003e-06,
+      "area_density": 0.1055080713
+    },
+    {
+      "index": "395",
+      "name": "Taitung",
+      "population": 109584.0,
+      "sqkm": 3986.64055352,
+      "sourceid": "TWN-1177",
+      "ndocuments": 2,
+      "population_density": 1.82508e-05,
+      "area_density": 0.0005016755
+    },
+    {
+      "index": "396",
+      "name": "Tamil Nadu",
+      "population": 22620937.0,
+      "sqkm": 135667.777522,
+      "sourceid": "IND-3263",
+      "ndocuments": 3,
+      "population_density": 1.326e-07,
+      "area_density": 2.21128e-05
+    },
+    {
+      "index": "397",
+      "name": "Taoyuan",
+      "population": 486563.0,
+      "sqkm": 1554.21821904,
+      "sourceid": "TWN-1168",
+      "ndocuments": 5,
+      "population_density": 1.02762e-05,
+      "area_density": 0.0032170515
+    },
+    {
+      "index": "398",
+      "name": "Tarragona",
+      "population": 656391.0,
+      "sqkm": 10997.8760527,
+      "sourceid": "ESP-5846",
+      "ndocuments": 2,
+      "population_density": 3.047e-06,
+      "area_density": 0.0001818533
+    },
+    {
+      "index": "399",
+      "name": "Tartu",
+      "population": 135811.0,
+      "sqkm": 13443.5122621,
+      "sourceid": "EST-1659",
+      "ndocuments": 2,
+      "population_density": 1.47263e-05,
+      "area_density": 0.0001487706
+    },
+    {
+      "index": "400",
+      "name": "Tasmania",
+      "population": 572370.0,
+      "sqkm": 122763.876331,
+      "sourceid": "AUS-2660",
+      "ndocuments": 3,
+      "population_density": 5.2414e-06,
+      "area_density": 2.44372e-05
+    },
+    {
+      "index": "401",
+      "name": "Tehran",
+      "population": 7983416.0,
+      "sqkm": 21739.7048982,
+      "sourceid": "IRN-3216",
+      "ndocuments": 5,
+      "population_density": 6.263e-07,
+      "area_density": 0.0002299939
+    },
+    {
+      "index": "402",
+      "name": "Tel Aviv",
+      "population": 1255979.0,
+      "sqkm": 247.409425019,
+      "sourceid": "ISR-3057",
+      "ndocuments": 12,
+      "population_density": 9.5543e-06,
+      "area_density": 0.0485025985
+    },
+    {
+      "index": "403",
+      "name": "Telemark",
+      "population": 119789.0,
+      "sqkm": 58866.4550683,
+      "sourceid": "NOR-922",
+      "ndocuments": 1,
+      "population_density": 8.348e-06,
+      "area_density": 1.69876e-05
+    },
+    {
+      "index": "404",
+      "name": "Tennessee",
+      "population": 4236116.0,
+      "sqkm": 165981.780152,
+      "sourceid": "USA-3551",
+      "ndocuments": 13,
+      "population_density": 3.0688e-06,
+      "area_density": 7.83218e-05
+    },
+    {
+      "index": "405",
+      "name": "Texas",
+      "population": 21750715.0,
+      "sqkm": 942880.623174,
+      "sourceid": "USA-3536",
+      "ndocuments": 106,
+      "population_density": 4.8734e-06,
+      "area_density": 0.0001124214
+    },
+    {
+      "index": "406",
+      "name": "Thurgau",
+      "population": 263485.0,
+      "sqkm": 2063.80518656,
+      "sourceid": "CHE-174",
+      "ndocuments": 1,
+      "population_density": 3.7953e-06,
+      "area_density": 0.0004845419
+    },
+    {
+      "index": "407",
+      "name": "Th\u00fcringen",
+      "population": 2160337.0,
+      "sqkm": 40231.1142391,
+      "sourceid": "DEU-1577",
+      "ndocuments": 9,
+      "population_density": 4.166e-06,
+      "area_density": 0.0002237075
+    },
+    {
+      "index": "408",
+      "name": "Tianjin",
+      "population": 12417697.0,
+      "sqkm": 19110.8727747,
+      "sourceid": "CHN-1816",
+      "ndocuments": 6,
+      "population_density": 4.832e-07,
+      "area_density": 0.0003139574
+    },
+    {
+      "index": "409",
+      "name": "Ticino",
+      "population": 290139.0,
+      "sqkm": 6096.71825555,
+      "sourceid": "CHE-168",
+      "ndocuments": 2,
+      "population_density": 6.8932e-06,
+      "area_density": 0.0003280453
+    },
+    {
+      "index": "410",
+      "name": "Timis",
+      "population": 812267.0,
+      "sqkm": 18112.9251327,
+      "sourceid": "ROU-280",
+      "ndocuments": 1,
+      "population_density": 1.2311e-06,
+      "area_density": 5.52092e-05
+    },
+    {
+      "index": "411",
+      "name": "Tirol",
+      "population": 761390.0,
+      "sqkm": 27449.5705005,
+      "sourceid": "AUT-2329",
+      "ndocuments": 3,
+      "population_density": 3.9402e-06,
+      "area_density": 0.0001092913
+    },
+    {
+      "index": "412",
+      "name": "Tochigi",
+      "population": 1543604.0,
+      "sqkm": 10055.229021,
+      "sourceid": "JPN-1859",
+      "ndocuments": 1,
+      "population_density": 6.478e-07,
+      "area_density": 9.94507e-05
+    },
+    {
+      "index": "413",
+      "name": "Tokyo",
+      "population": 10718811.0,
+      "sqkm": 3256.91634855,
+      "sourceid": "JPN-1860",
+      "ndocuments": 25,
+      "population_density": 2.3323e-06,
+      "area_density": 0.0076759724
+    },
+    {
+      "index": "414",
+      "name": "Tower Hamlets",
+      "population": 0.0,
+      "sqkm": 57.7725043968,
+      "sourceid": "GBR-2077",
+      "ndocuments": 5,
+      "population_density": null,
+      "area_density": 0.0865463606
+    },
+    {
+      "index": "415",
+      "name": "Trento",
+      "population": 506448.0,
+      "sqkm": 12712.6096711,
+      "sourceid": "ITA-5460",
+      "ndocuments": 3,
+      "population_density": 5.9236e-06,
+      "area_density": 0.0002359862
+    },
+    {
+      "index": "416",
+      "name": "Turin",
+      "population": 2181403.0,
+      "sqkm": 13968.2790956,
+      "sourceid": "ITA-5434",
+      "ndocuments": 4,
+      "population_density": 1.8337e-06,
+      "area_density": 0.0002863631
+    },
+    {
+      "index": "417",
+      "name": "Udine",
+      "population": 528491.0,
+      "sqkm": 9620.86950346,
+      "sourceid": "ITA-5455",
+      "ndocuments": 3,
+      "population_density": 5.6765e-06,
+      "area_density": 0.0003118221
+    },
+    {
+      "index": "418",
+      "name": "Uppsala",
+      "population": 285681.0,
+      "sqkm": 27965.4389849,
+      "sourceid": "SWE-195",
+      "ndocuments": 4,
+      "population_density": 1.40016e-05,
+      "area_density": 0.0001430337
+    },
+    {
+      "index": "419",
+      "name": "Utah",
+      "population": 2995675.0,
+      "sqkm": 366631.4863,
+      "sourceid": "USA-3526",
+      "ndocuments": 13,
+      "population_density": 4.3396e-06,
+      "area_density": 3.54579e-05
+    },
+    {
+      "index": "420",
+      "name": "Utrecht",
+      "population": 1107214.0,
+      "sqkm": 3682.9827478,
+      "sourceid": "NLD-3484",
+      "ndocuments": 8,
+      "population_density": 7.2253e-06,
+      "area_density": 0.0021721525
+    },
+    {
+      "index": "421",
+      "name": "Uttar Pradesh",
+      "population": 33953792.0,
+      "sqkm": 302073.473264,
+      "sourceid": "IND-3253",
+      "ndocuments": 1,
+      "population_density": 2.95e-08,
+      "area_density": 3.3105e-06
+    },
+    {
+      "index": "422",
+      "name": "Uusimaa",
+      "population": 1596044.0,
+      "sqkm": 36806.838706,
+      "sourceid": "FIN-3193",
+      "ndocuments": 5,
+      "population_density": 3.1327e-06,
+      "area_density": 0.0001358443
+    },
+    {
+      "index": "423",
+      "name": "Vacoas-Phoenix",
+      "population": 110000.0,
+      "sqkm": 26.9228272142,
+      "sourceid": "MUS-5196",
+      "ndocuments": 1,
+      "population_density": 9.0909e-06,
+      "area_density": 0.0371432016
+    },
+    {
+      "index": "424",
+      "name": "Val-d'Oise",
+      "population": 1595104.0,
+      "sqkm": 3119.3655699,
+      "sourceid": "FRA-5349",
+      "ndocuments": 2,
+      "population_density": 1.2538e-06,
+      "area_density": 0.000641156
+    },
+    {
+      "index": "425",
+      "name": "Valencia",
+      "population": 2546397.0,
+      "sqkm": 17974.7752366,
+      "sourceid": "ESP-5849",
+      "ndocuments": 5,
+      "population_density": 1.9636e-06,
+      "area_density": 0.0002781676
+    },
+    {
+      "index": "426",
+      "name": "Valladolid",
+      "population": 515073.0,
+      "sqkm": 14513.7849035,
+      "sourceid": "ESP-5850",
+      "ndocuments": 1,
+      "population_density": 1.9415e-06,
+      "area_density": 6.89e-05
+    },
+    {
+      "index": "427",
+      "name": "Valpara\u00edso",
+      "population": 1220829.0,
+      "sqkm": 23713.8647302,
+      "sourceid": "CHL-2699",
+      "ndocuments": 1,
+      "population_density": 8.191e-07,
+      "area_density": 4.21694e-05
+    },
+    {
+      "index": "428",
+      "name": "Vaud",
+      "population": 554989.0,
+      "sqkm": 6983.85716223,
+      "sourceid": "CHE-3422",
+      "ndocuments": 4,
+      "population_density": 7.2074e-06,
+      "area_density": 0.0005727494
+    },
+    {
+      "index": "429",
+      "name": "Vend\u00e9e",
+      "population": 560851.0,
+      "sqkm": 13907.3415161,
+      "sourceid": "FRA-5353",
+      "ndocuments": 1,
+      "population_density": 1.783e-06,
+      "area_density": 7.19045e-05
+    },
+    {
+      "index": "430",
+      "name": "Veracruz",
+      "population": 6995162.0,
+      "sqkm": 79736.6187091,
+      "sourceid": "MEX-2734",
+      "ndocuments": 3,
+      "population_density": 4.289e-07,
+      "area_density": 3.76239e-05
+    },
+    {
+      "index": "431",
+      "name": "Victoria",
+      "population": 5596970.0,
+      "sqkm": 355370.247708,
+      "sourceid": "AUS-2656",
+      "ndocuments": 73,
+      "population_density": 1.30428e-05,
+      "area_density": 0.0002054196
+    },
+    {
+      "index": "432",
+      "name": "Vilniaus",
+      "population": 691574.0,
+      "sqkm": 29412.5379565,
+      "sourceid": "LTU-1075",
+      "ndocuments": 1,
+      "population_density": 1.446e-06,
+      "area_density": 3.39991e-05
+    },
+    {
+      "index": "433",
+      "name": "Virginia",
+      "population": 5705801.0,
+      "sqkm": 162139.026191,
+      "sourceid": "USA-3552",
+      "ndocuments": 32,
+      "population_density": 5.6083e-06,
+      "area_density": 0.0001973615
+    },
+    {
+      "index": "434",
+      "name": "Voreio Aigaio",
+      "population": 162603.0,
+      "sqkm": 6258.40801564,
+      "sourceid": "GRC-2988",
+      "ndocuments": 7,
+      "population_density": 4.30496e-05,
+      "area_density": 0.0011184953
+    },
+    {
+      "index": "435",
+      "name": "Voronezh",
+      "population": 1713642.0,
+      "sqkm": 131338.390297,
+      "sourceid": "RUS-2377",
+      "ndocuments": 1,
+      "population_density": 5.836e-07,
+      "area_density": 7.6139e-06
+    },
+    {
+      "index": "436",
+      "name": "Vyso\u010dina",
+      "population": 522202.0,
+      "sqkm": 16373.9459562,
+      "sourceid": "CZE-1594",
+      "ndocuments": 1,
+      "population_density": 1.915e-06,
+      "area_density": 6.10726e-05
+    },
+    {
+      "index": "437",
+      "name": "V\u00e4rmland",
+      "population": 209690.0,
+      "sqkm": 87361.5618886,
+      "sourceid": "SWE-188",
+      "ndocuments": 4,
+      "population_density": 1.90758e-05,
+      "area_density": 4.57867e-05
+    },
+    {
+      "index": "438",
+      "name": "V\u00e4sterbotten",
+      "population": 232555.0,
+      "sqkm": 324050.039415,
+      "sourceid": "SWE-192",
+      "ndocuments": 1,
+      "population_density": 4.3001e-06,
+      "area_density": 3.0859e-06
+    },
+    {
+      "index": "439",
+      "name": "V\u00e4stra G\u00f6taland",
+      "population": 1557278.0,
+      "sqkm": 106345.376842,
+      "sourceid": "SWE-3428",
+      "ndocuments": 2,
+      "population_density": 1.2843e-06,
+      "area_density": 1.88066e-05
+    },
+    {
+      "index": "440",
+      "name": "Waikato",
+      "population": 317887.0,
+      "sqkm": 38541.7562893,
+      "sourceid": "NZL-5468",
+      "ndocuments": 2,
+      "population_density": 6.2915e-06,
+      "area_density": 5.18918e-05
+    },
+    {
+      "index": "441",
+      "name": "Walloon Brabant",
+      "population": 364131.0,
+      "sqkm": 2726.88411499,
+      "sourceid": "BEL-3482",
+      "ndocuments": 1,
+      "population_density": 2.7463e-06,
+      "area_density": 0.0003667189
+    },
+    {
+      "index": "442",
+      "name": "Walsall",
+      "population": 273467.0,
+      "sqkm": 261.437339658,
+      "sourceid": "GBR-5694",
+      "ndocuments": 1,
+      "population_density": 3.6567e-06,
+      "area_density": 0.0038250083
+    },
+    {
+      "index": "443",
+      "name": "Wan Chai",
+      "population": 7012738.0,
+      "sqkm": 7.0441390959,
+      "sourceid": "HKG-5154",
+      "ndocuments": 22,
+      "population_density": 3.1371e-06,
+      "area_density": 3.1231637679
+    },
+    {
+      "index": "444",
+      "name": "Wandsworth",
+      "population": 15562.0,
+      "sqkm": 95.0397744603,
+      "sourceid": "GBR-2079",
+      "ndocuments": 4,
+      "population_density": 0.0002570364,
+      "area_density": 0.042087642
+    },
+    {
+      "index": "445",
+      "name": "Warwickshire",
+      "population": 524244.0,
+      "sqkm": 5231.29362784,
+      "sourceid": "GBR-2750",
+      "ndocuments": 1,
+      "population_density": 1.9075e-06,
+      "area_density": 0.0001911573
+    },
+    {
+      "index": "446",
+      "name": "Washington",
+      "population": 6052727.0,
+      "sqkm": 378557.563363,
+      "sourceid": "USA-3519",
+      "ndocuments": 34,
+      "population_density": 5.6173e-06,
+      "area_density": 8.98146e-05
+    },
+    {
+      "index": "447",
+      "name": "Waterford",
+      "population": 26618.0,
+      "sqkm": 4750.2282817,
+      "sourceid": "IRL-1444",
+      "ndocuments": 1,
+      "population_density": 3.75686e-05,
+      "area_density": 0.0002105162
+    },
+    {
+      "index": "448",
+      "name": "Wellington",
+      "population": 635927.0,
+      "sqkm": 13832.9960217,
+      "sourceid": "NZL-5469",
+      "ndocuments": 6,
+      "population_density": 9.435e-06,
+      "area_density": 0.0004337455
+    },
+    {
+      "index": "449",
+      "name": "West Bank",
+      "population": 3462916.0,
+      "sqkm": 8242.23826216,
+      "sourceid": "WEB+00?",
+      "ndocuments": 3,
+      "population_density": 8.663e-07,
+      "area_density": 0.0003639788
+    },
+    {
+      "index": "450",
+      "name": "West Pomeranian",
+      "population": 1281446.0,
+      "sqkm": 66843.8194176,
+      "sourceid": "POL-3142",
+      "ndocuments": 1,
+      "population_density": 7.804e-07,
+      "area_density": 1.49602e-05
+    },
+    {
+      "index": "451",
+      "name": "West Virginia",
+      "population": 858168.0,
+      "sqkm": 102603.062217,
+      "sourceid": "USA-3554",
+      "ndocuments": 1,
+      "population_density": 1.1653e-06,
+      "area_density": 9.7463e-06
+    },
+    {
+      "index": "452",
+      "name": "Western Australia",
+      "population": 2701478.0,
+      "sqkm": 3125820.59464,
+      "sourceid": "AUS-2651",
+      "ndocuments": 9,
+      "population_density": 3.3315e-06,
+      "area_density": 2.8792e-06
+    },
+    {
+      "index": "453",
+      "name": "Western Cape",
+      "population": 4762360.0,
+      "sqkm": 184330.418066,
+      "sourceid": "ZAF-1189",
+      "ndocuments": 4,
+      "population_density": 8.399e-07,
+      "area_density": 2.17002e-05
+    },
+    {
+      "index": "454",
+      "name": "Westminster",
+      "population": 7804514.0,
+      "sqkm": 45.7594850734,
+      "sourceid": "GBR-2080",
+      "ndocuments": 8,
+      "population_density": 1.025e-06,
+      "area_density": 0.1748271421
+    },
+    {
+      "index": "455",
+      "name": "Wien",
+      "population": 1997981.0,
+      "sqkm": 920.074731713,
+      "sourceid": "AUT-2331",
+      "ndocuments": 9,
+      "population_density": 4.5045e-06,
+      "area_density": 0.0097818141
+    },
+    {
+      "index": "456",
+      "name": "Wisconsin",
+      "population": 4355032.0,
+      "sqkm": 333720.599188,
+      "sourceid": "USA-3553",
+      "ndocuments": 19,
+      "population_density": 4.3628e-06,
+      "area_density": 5.69339e-05
+    },
+    {
+      "index": "457",
+      "name": "Wokingham",
+      "population": 97299.0,
+      "sqkm": 490.75664898,
+      "sourceid": "GBR-5701",
+      "ndocuments": 2,
+      "population_density": 2.05552e-05,
+      "area_density": 0.0040753396
+    },
+    {
+      "index": "458",
+      "name": "Wolverhampton",
+      "population": 318846.0,
+      "sqkm": 174.661310889,
+      "sourceid": "GBR-5693",
+      "ndocuments": 6,
+      "population_density": 1.88179e-05,
+      "area_density": 0.0343521984
+    },
+    {
+      "index": "459",
+      "name": "Wyoming",
+      "population": 454474.0,
+      "sqkm": 472795.065459,
+      "sourceid": "USA-3527",
+      "ndocuments": 2,
+      "population_density": 4.4007e-06,
+      "area_density": 4.2302e-06
+    },
+    {
+      "index": "460",
+      "name": "Xizang",
+      "population": 398546.0,
+      "sqkm": 1559381.78748,
+      "sourceid": "CHN-1662",
+      "ndocuments": 1,
+      "population_density": 2.5091e-06,
+      "area_density": 6.413e-07
+    },
+    {
+      "index": "461",
+      "name": "Yamagata",
+      "population": 876015.0,
+      "sqkm": 15028.9609194,
+      "sourceid": "JPN-1868",
+      "ndocuments": 1,
+      "population_density": 1.1415e-06,
+      "area_density": 6.65382e-05
+    },
+    {
+      "index": "462",
+      "name": "Yuen Long",
+      "population": 141900.0,
+      "sqkm": 201.632253898,
+      "sourceid": "HKG-5167",
+      "ndocuments": 1,
+      "population_density": 7.0472e-06,
+      "area_density": 0.004959524
+    },
+    {
+      "index": "463",
+      "name": "Yunlin",
+      "population": 104723.0,
+      "sqkm": 1516.25865758,
+      "sourceid": "TWN-1176",
+      "ndocuments": 1,
+      "population_density": 9.549e-06,
+      "area_density": 0.0006595181
+    },
+    {
+      "index": "464",
+      "name": "Zaragoza",
+      "population": 937223.0,
+      "sqkm": 30844.923582,
+      "sourceid": "ESP-5853",
+      "ndocuments": 2,
+      "population_density": 2.134e-06,
+      "area_density": 6.48405e-05
+    },
+    {
+      "index": "465",
+      "name": "Zuid-Holland",
+      "population": 3296602.0,
+      "sqkm": 8371.4726812,
+      "sourceid": "NLD-3485",
+      "ndocuments": 16,
+      "population_density": 4.8535e-06,
+      "area_density": 0.0019112527
+    },
+    {
+      "index": "466",
+      "name": "Z\u00fcrich",
+      "population": 1254646.0,
+      "sqkm": 3783.53874078,
+      "sourceid": "CHE-176",
+      "ndocuments": 7,
+      "population_density": 5.5793e-06,
+      "area_density": 0.0018501198
+    },
+    {
+      "index": "467",
+      "name": "\u00d6sterg\u00f6tland",
+      "population": 387877.0,
+      "sqkm": 43208.3036781,
+      "sourceid": "SWE-184",
+      "ndocuments": 5,
+      "population_density": 1.28907e-05,
+      "area_density": 0.0001157185
+    },
+    {
+      "index": "468",
+      "name": "\u010cair",
+      "population": 474889.0,
+      "sqkm": 4.9125324208,
+      "sourceid": "MKD-2913",
+      "ndocuments": 2,
+      "population_density": 4.2115e-06,
+      "area_density": 0.4071219951
+    },
+    {
+      "index": "469",
+      "name": "\u014csaka",
+      "population": 7277004.0,
+      "sqkm": 2731.62006764,
+      "sourceid": "JPN-1852",
+      "ndocuments": 2,
+      "population_density": 2.748e-07,
+      "area_density": 0.0007321662
+    },
+    {
+      "index": "470",
+      "name": "\u015awi\u0119tokrzyskie",
+      "population": 661666.0,
+      "sqkm": 27833.8652287,
+      "sourceid": "POL-3149",
+      "ndocuments": 1,
+      "population_density": 1.5113e-06,
+      "area_density": 3.59275e-05
+    }
+  ]
+}
